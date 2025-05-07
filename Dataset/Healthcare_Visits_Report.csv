@@ -1,0 +1,1001 @@
+VisitID,VisitDate,PatientID,Hospital,Department,Diagnosis,Region,WaitTimeMin,TreatmentCost,SatisfactionScore,Readmitted
+VIS1000,8/13/2024,PAT5000,St. Mary’s,Cardiology,Cancer,East,67,2309.79,1,0
+VIS1001,2/2/2025,PAT5001,Oakwood Medical,Pediatrics,Hypertension,North,28,2264.52,5,0
+VIS1002,11/2/2024,PAT5002,Oakwood Medical,Neurology,Cancer,West,61,4547.17,3,0
+VIS1003,5/6/2024,PAT5003,Hope General,Oncology,Asthma,East,76,1639.25,3,0
+VIS1004,11/20/2023,PAT5004,St. Mary’s,Pediatrics,Hypertension,East,93,6076.89,1,1
+VIS1005,2/16/2024,PAT5005,Oakwood Medical,Cardiology,Asthma,North,146,3002.46,5,1
+VIS1006,11/21/2023,PAT5006,Oakwood Medical,Neurology,Cancer,North,16,6646.51,3,0
+VIS1007,4/2/2025,PAT5007,Hope General,Cardiology,Asthma,East,121,6393.28,3,0
+VIS1008,1/3/2024,PAT5008,Green Valley Clinic,Orthopedics,Diabetes,East,179,6515.55,5,0
+VIS1009,10/15/2023,PAT5009,Oakwood Medical,Oncology,Diabetes,South,123,3856.61,5,0
+VIS1010,3/5/2025,PAT5010,Green Valley Clinic,Cardiology,Diabetes,North,85,4071.53,1,0
+VIS1011,3/11/2025,PAT5011,Oakwood Medical,Oncology,Fracture,South,172,5042.39,4,0
+VIS1012,4/3/2025,PAT5012,Green Valley Clinic,Neurology,Diabetes,East,154,4341.49,5,1
+VIS1013,11/28/2024,PAT5013,Green Valley Clinic,Neurology,Diabetes,West,28,7582.24,1,0
+VIS1014,8/24/2023,PAT5014,Hope General,Oncology,Asthma,North,103,3878.03,4,1
+VIS1015,12/30/2024,PAT5015,Oakwood Medical,Cardiology,Cancer,North,179,8859.41,3,1
+VIS1016,7/29/2023,PAT5016,St. Mary’s,Orthopedics,Asthma,South,121,132.13,3,0
+VIS1017,10/31/2023,PAT5017,Oakwood Medical,Cardiology,Cancer,East,168,5125.86,2,0
+VIS1018,2/9/2024,PAT5018,Green Valley Clinic,Neurology,Migraine,North,158,3309.14,1,0
+VIS1019,5/17/2024,PAT5019,Green Valley Clinic,Orthopedics,Diabetes,North,66,8792.3,1,0
+VIS1020,2/14/2024,PAT5020,Sunrise Hospital,Cardiology,Migraine,South,37,6631.53,5,0
+VIS1021,11/25/2024,PAT5021,Green Valley Clinic,Emergency,Migraine,West,59,9296.24,2,1
+VIS1022,6/25/2023,PAT5022,Sunrise Hospital,Oncology,Cancer,East,117,9006.18,4,0
+VIS1023,11/26/2023,PAT5023,Hope General,Neurology,Hypertension,East,10,5924.26,2,0
+VIS1024,7/13/2024,PAT5024,St. Mary’s,Cardiology,Cancer,North,63,767.26,1,1
+VIS1025,10/8/2024,PAT5025,St. Mary’s,Emergency,Diabetes,East,176,4905.6,5,0
+VIS1026,10/26/2023,PAT5026,Oakwood Medical,Emergency,Asthma,South,126,8094.22,2,0
+VIS1027,5/29/2023,PAT5027,St. Mary’s,Oncology,Asthma,East,113,4169.91,1,0
+VIS1028,5/24/2023,PAT5028,St. Mary’s,Pediatrics,Cancer,East,32,2561.7,2,1
+VIS1029,3/25/2024,PAT5029,Hope General,Pediatrics,Diabetes,East,123,2573.08,1,1
+VIS1030,5/29/2024,PAT5030,Oakwood Medical,Cardiology,Hypertension,North,28,9271.03,2,0
+VIS1031,9/10/2024,PAT5031,Sunrise Hospital,Pediatrics,Asthma,South,107,9034.18,2,1
+VIS1032,7/24/2023,PAT5032,St. Mary’s,Pediatrics,Fracture,West,78,4287.77,5,1
+VIS1033,11/18/2023,PAT5033,Hope General,Neurology,Fracture,South,19,5833.88,5,0
+VIS1034,12/20/2023,PAT5034,Green Valley Clinic,Cardiology,Hypertension,West,133,9201.93,5,0
+VIS1035,12/29/2023,PAT5035,St. Mary’s,Emergency,Hypertension,South,22,5990.85,2,1
+VIS1036,8/2/2024,PAT5036,St. Mary’s,Emergency,Diabetes,North,163,911.64,5,1
+VIS1037,12/27/2024,PAT5037,Green Valley Clinic,Neurology,Cancer,East,66,2729.58,2,1
+VIS1038,6/4/2024,PAT5038,Sunrise Hospital,Orthopedics,Hypertension,North,122,6249.48,5,0
+VIS1039,10/26/2024,PAT5039,St. Mary’s,Emergency,Diabetes,East,38,9339.27,1,0
+VIS1040,9/4/2023,PAT5040,Green Valley Clinic,Orthopedics,Diabetes,West,144,7065.05,5,0
+VIS1041,7/31/2024,PAT5041,Oakwood Medical,Orthopedics,Cancer,North,39,2718.21,1,0
+VIS1042,3/16/2024,PAT5042,Green Valley Clinic,Orthopedics,Migraine,South,92,2115.61,3,1
+VIS1043,2/10/2024,PAT5043,Green Valley Clinic,Cardiology,Hypertension,West,75,536.46,3,0
+VIS1044,12/9/2024,PAT5044,Green Valley Clinic,Neurology,Cancer,West,146,7086.11,5,0
+VIS1045,7/28/2024,PAT5045,St. Mary’s,Cardiology,Cancer,South,144,456.68,3,0
+VIS1046,1/11/2024,PAT5046,Sunrise Hospital,Neurology,Hypertension,East,98,8999.92,1,1
+VIS1047,4/22/2024,PAT5047,Hope General,Oncology,Diabetes,North,95,7823.15,4,0
+VIS1048,2/16/2025,PAT5048,Hope General,Neurology,Diabetes,West,11,1875.67,3,1
+VIS1049,5/6/2023,PAT5049,Hope General,Orthopedics,Diabetes,North,102,8734.45,4,0
+VIS1050,10/8/2024,PAT5050,Hope General,Pediatrics,Fracture,East,63,2306.94,2,1
+VIS1051,5/5/2025,PAT5051,Green Valley Clinic,Orthopedics,Hypertension,East,94,6450.67,4,1
+VIS1052,9/3/2024,PAT5052,St. Mary’s,Cardiology,Fracture,South,153,9629.09,3,0
+VIS1053,2/10/2024,PAT5053,St. Mary’s,Emergency,Asthma,East,85,4420.3,5,0
+VIS1054,6/28/2023,PAT5054,Sunrise Hospital,Emergency,Diabetes,East,16,7116.97,1,0
+VIS1055,6/1/2024,PAT5055,Green Valley Clinic,Pediatrics,Hypertension,East,164,3207.76,1,1
+VIS1056,5/9/2024,PAT5056,Oakwood Medical,Orthopedics,Cancer,West,88,4083.76,3,0
+VIS1057,7/3/2023,PAT5057,Hope General,Pediatrics,Cancer,West,178,7506.53,2,1
+VIS1058,9/23/2023,PAT5058,Sunrise Hospital,Emergency,Hypertension,East,78,2180.81,5,1
+VIS1059,10/13/2023,PAT5059,Sunrise Hospital,Pediatrics,Asthma,South,135,4784.54,2,0
+VIS1060,4/23/2024,PAT5060,Green Valley Clinic,Emergency,Cancer,East,28,8202.39,2,1
+VIS1061,4/18/2024,PAT5061,Hope General,Neurology,Diabetes,North,16,2523.94,4,0
+VIS1062,4/3/2024,PAT5062,Sunrise Hospital,Pediatrics,Cancer,South,103,4994.33,2,0
+VIS1063,5/19/2023,PAT5063,St. Mary’s,Cardiology,Asthma,South,50,8060.69,5,1
+VIS1064,12/10/2023,PAT5064,St. Mary’s,Emergency,Diabetes,North,121,1420.06,4,1
+VIS1065,7/15/2023,PAT5065,Sunrise Hospital,Emergency,Cancer,West,145,4514.54,2,1
+VIS1066,5/31/2023,PAT5066,Sunrise Hospital,Orthopedics,Diabetes,East,138,4897.51,2,1
+VIS1067,12/28/2024,PAT5067,Sunrise Hospital,Cardiology,Cancer,East,65,2789.98,3,0
+VIS1068,6/2/2024,PAT5068,Hope General,Neurology,Diabetes,West,44,7093.55,1,1
+VIS1069,7/5/2024,PAT5069,Sunrise Hospital,Orthopedics,Migraine,West,111,716.43,4,1
+VIS1070,11/21/2024,PAT5070,Oakwood Medical,Oncology,Hypertension,West,127,158.37,3,1
+VIS1071,6/21/2023,PAT5071,Sunrise Hospital,Pediatrics,Migraine,South,129,2272.27,4,1
+VIS1072,1/6/2024,PAT5072,St. Mary’s,Pediatrics,Fracture,West,47,8421.01,2,0
+VIS1073,2/19/2024,PAT5073,Sunrise Hospital,Emergency,Migraine,North,26,6463.22,2,1
+VIS1074,7/24/2023,PAT5074,Hope General,Cardiology,Fracture,West,88,2195.44,3,1
+VIS1075,10/30/2024,PAT5075,Sunrise Hospital,Orthopedics,Asthma,East,25,4756.04,5,0
+VIS1076,3/25/2024,PAT5076,Green Valley Clinic,Neurology,Cancer,North,171,498.56,1,0
+VIS1077,7/3/2024,PAT5077,Hope General,Cardiology,Migraine,South,66,1349.59,1,0
+VIS1078,1/9/2024,PAT5078,Sunrise Hospital,Oncology,Fracture,East,47,6098.34,1,0
+VIS1079,2/5/2025,PAT5079,Green Valley Clinic,Cardiology,Migraine,North,84,5800.39,4,1
+VIS1080,7/30/2024,PAT5080,Hope General,Cardiology,Migraine,South,31,7002.21,3,0
+VIS1081,2/5/2025,PAT5081,Oakwood Medical,Cardiology,Fracture,West,174,3768.65,5,1
+VIS1082,9/11/2024,PAT5082,St. Mary’s,Pediatrics,Asthma,North,115,9611.8,4,0
+VIS1083,9/13/2024,PAT5083,Sunrise Hospital,Neurology,Cancer,East,162,8101.17,5,1
+VIS1084,11/28/2024,PAT5084,Sunrise Hospital,Pediatrics,Cancer,East,87,8531.96,1,1
+VIS1085,3/27/2024,PAT5085,Sunrise Hospital,Neurology,Asthma,West,91,384.13,3,0
+VIS1086,5/22/2023,PAT5086,Sunrise Hospital,Neurology,Fracture,East,92,2868.62,5,1
+VIS1087,2/1/2024,PAT5087,Oakwood Medical,Cardiology,Migraine,South,26,2489.42,4,1
+VIS1088,10/12/2024,PAT5088,Oakwood Medical,Neurology,Cancer,West,170,7147.24,4,0
+VIS1089,3/18/2025,PAT5089,St. Mary’s,Orthopedics,Diabetes,West,67,3131.44,5,1
+VIS1090,4/5/2025,PAT5090,Sunrise Hospital,Emergency,Migraine,East,113,9966.65,5,1
+VIS1091,4/28/2025,PAT5091,Green Valley Clinic,Oncology,Asthma,East,83,2588.9,1,0
+VIS1092,4/16/2024,PAT5092,Green Valley Clinic,Cardiology,Cancer,South,54,2242.21,4,1
+VIS1093,3/19/2025,PAT5093,Oakwood Medical,Emergency,Migraine,East,30,8343.02,3,0
+VIS1094,9/28/2023,PAT5094,Green Valley Clinic,Neurology,Fracture,North,141,1353.17,1,0
+VIS1095,10/3/2024,PAT5095,Oakwood Medical,Orthopedics,Cancer,South,168,8697.77,4,0
+VIS1096,6/5/2024,PAT5096,St. Mary’s,Emergency,Fracture,West,127,4460.64,2,0
+VIS1097,8/4/2024,PAT5097,Green Valley Clinic,Pediatrics,Hypertension,North,107,4968.29,5,0
+VIS1098,9/27/2024,PAT5098,Hope General,Neurology,Migraine,East,26,9939.79,1,1
+VIS1099,9/21/2024,PAT5099,Oakwood Medical,Emergency,Migraine,South,138,3865.74,4,1
+VIS1100,1/15/2025,PAT5100,Oakwood Medical,Pediatrics,Fracture,North,161,9605.08,1,0
+VIS1101,5/19/2024,PAT5101,Hope General,Orthopedics,Cancer,North,45,2474.67,5,0
+VIS1102,7/3/2024,PAT5102,Hope General,Cardiology,Asthma,West,157,4752.13,1,0
+VIS1103,1/27/2024,PAT5103,Green Valley Clinic,Oncology,Fracture,West,23,6905.11,3,0
+VIS1104,1/19/2024,PAT5104,Sunrise Hospital,Cardiology,Migraine,South,170,1575,3,0
+VIS1105,10/21/2023,PAT5105,St. Mary’s,Cardiology,Diabetes,East,157,7514.68,5,1
+VIS1106,1/4/2024,PAT5106,Sunrise Hospital,Cardiology,Asthma,East,108,9432.49,5,1
+VIS1107,8/28/2023,PAT5107,Sunrise Hospital,Cardiology,Migraine,North,115,7371.89,5,1
+VIS1108,11/19/2024,PAT5108,St. Mary’s,Cardiology,Diabetes,North,177,8232.07,5,0
+VIS1109,12/19/2023,PAT5109,Hope General,Pediatrics,Migraine,West,76,1896.74,5,1
+VIS1110,12/6/2024,PAT5110,Sunrise Hospital,Cardiology,Asthma,East,109,3399.75,1,0
+VIS1111,12/1/2023,PAT5111,Green Valley Clinic,Pediatrics,Cancer,West,78,6659.58,4,0
+VIS1112,10/19/2023,PAT5112,Sunrise Hospital,Cardiology,Fracture,East,87,1247.62,4,0
+VIS1113,12/15/2023,PAT5113,Oakwood Medical,Pediatrics,Asthma,North,53,5232.55,5,1
+VIS1114,3/14/2024,PAT5114,Sunrise Hospital,Cardiology,Diabetes,East,145,1397.03,3,1
+VIS1115,7/23/2023,PAT5115,Sunrise Hospital,Cardiology,Hypertension,South,45,3176.43,1,1
+VIS1116,2/23/2025,PAT5116,St. Mary’s,Neurology,Hypertension,West,35,6512.33,2,1
+VIS1117,3/7/2024,PAT5117,Green Valley Clinic,Emergency,Cancer,East,111,8363.77,4,0
+VIS1118,6/16/2024,PAT5118,Sunrise Hospital,Emergency,Diabetes,West,53,9226.49,5,0
+VIS1119,9/10/2023,PAT5119,St. Mary’s,Orthopedics,Asthma,East,134,2745.01,1,1
+VIS1120,3/31/2024,PAT5120,Green Valley Clinic,Emergency,Migraine,West,43,4520.82,4,1
+VIS1121,8/12/2023,PAT5121,Green Valley Clinic,Emergency,Migraine,West,121,9335.24,2,0
+VIS1122,2/4/2024,PAT5122,Oakwood Medical,Pediatrics,Diabetes,West,16,3249.95,4,1
+VIS1123,7/24/2023,PAT5123,Sunrise Hospital,Oncology,Cancer,South,131,9651.76,2,1
+VIS1124,12/23/2023,PAT5124,St. Mary’s,Pediatrics,Hypertension,West,8,7252.19,4,0
+VIS1125,5/29/2023,PAT5125,St. Mary’s,Pediatrics,Fracture,East,164,6957.78,1,1
+VIS1126,3/27/2024,PAT5126,Oakwood Medical,Pediatrics,Fracture,West,143,455.4,1,0
+VIS1127,6/18/2024,PAT5127,Green Valley Clinic,Neurology,Cancer,North,116,9785.54,1,1
+VIS1128,3/5/2024,PAT5128,Hope General,Oncology,Fracture,North,16,3311.31,1,1
+VIS1129,6/2/2023,PAT5129,Green Valley Clinic,Orthopedics,Asthma,South,67,5358.55,5,0
+VIS1130,9/4/2023,PAT5130,Hope General,Neurology,Hypertension,West,163,6863.03,4,0
+VIS1131,10/2/2023,PAT5131,Hope General,Pediatrics,Cancer,East,122,2627.73,1,1
+VIS1132,8/21/2023,PAT5132,Green Valley Clinic,Oncology,Migraine,South,23,4473.12,3,1
+VIS1133,12/1/2023,PAT5133,Sunrise Hospital,Oncology,Fracture,West,82,2072.25,4,1
+VIS1134,6/16/2023,PAT5134,St. Mary’s,Neurology,Asthma,East,152,3029.14,3,0
+VIS1135,4/21/2024,PAT5135,Sunrise Hospital,Orthopedics,Hypertension,North,160,7477.2,3,0
+VIS1136,10/19/2023,PAT5136,Oakwood Medical,Orthopedics,Diabetes,South,163,2581.21,2,0
+VIS1137,6/25/2024,PAT5137,St. Mary’s,Orthopedics,Asthma,North,153,3712.13,2,0
+VIS1138,11/11/2023,PAT5138,Green Valley Clinic,Orthopedics,Cancer,West,49,2087.87,5,1
+VIS1139,6/28/2024,PAT5139,Oakwood Medical,Emergency,Fracture,South,70,9149.08,4,1
+VIS1140,7/29/2024,PAT5140,Green Valley Clinic,Cardiology,Asthma,North,41,7566.1,2,1
+VIS1141,10/12/2023,PAT5141,Oakwood Medical,Orthopedics,Hypertension,West,8,2718.14,1,1
+VIS1142,2/24/2024,PAT5142,Green Valley Clinic,Oncology,Cancer,East,154,3872.15,3,0
+VIS1143,8/3/2024,PAT5143,Hope General,Pediatrics,Hypertension,East,161,2291.54,1,1
+VIS1144,5/7/2024,PAT5144,Green Valley Clinic,Oncology,Asthma,North,40,548.93,1,1
+VIS1145,3/22/2024,PAT5145,Sunrise Hospital,Cardiology,Hypertension,South,142,1443.07,4,1
+VIS1146,8/7/2023,PAT5146,Oakwood Medical,Pediatrics,Migraine,South,111,6583.73,4,1
+VIS1147,1/18/2025,PAT5147,Green Valley Clinic,Cardiology,Cancer,East,60,4489.49,2,1
+VIS1148,7/2/2024,PAT5148,St. Mary’s,Oncology,Fracture,East,20,4041.58,2,0
+VIS1149,5/25/2024,PAT5149,Sunrise Hospital,Cardiology,Cancer,South,169,6430.98,1,0
+VIS1150,9/22/2024,PAT5150,Green Valley Clinic,Neurology,Diabetes,South,22,8315.2,5,0
+VIS1151,4/30/2025,PAT5151,Oakwood Medical,Neurology,Diabetes,East,42,7907.57,5,0
+VIS1152,9/13/2024,PAT5152,Green Valley Clinic,Neurology,Diabetes,East,49,1188.27,1,0
+VIS1153,8/16/2024,PAT5153,St. Mary’s,Orthopedics,Diabetes,East,9,1825.04,1,0
+VIS1154,1/13/2025,PAT5154,Sunrise Hospital,Emergency,Hypertension,North,126,4537.92,3,0
+VIS1155,12/12/2024,PAT5155,Sunrise Hospital,Emergency,Diabetes,North,173,5262.37,4,0
+VIS1156,2/10/2025,PAT5156,St. Mary’s,Pediatrics,Asthma,West,180,1168.82,4,0
+VIS1157,8/11/2024,PAT5157,St. Mary’s,Orthopedics,Migraine,South,21,1349.3,5,1
+VIS1158,12/11/2023,PAT5158,Sunrise Hospital,Emergency,Migraine,East,121,5104.96,4,0
+VIS1159,3/16/2025,PAT5159,St. Mary’s,Oncology,Cancer,South,115,4570.39,2,1
+VIS1160,8/8/2024,PAT5160,Green Valley Clinic,Pediatrics,Asthma,West,29,3194.23,3,1
+VIS1161,9/10/2024,PAT5161,Green Valley Clinic,Neurology,Cancer,West,22,1003.13,1,0
+VIS1162,10/9/2024,PAT5162,Sunrise Hospital,Cardiology,Cancer,East,38,5608.07,5,1
+VIS1163,12/14/2024,PAT5163,St. Mary’s,Pediatrics,Fracture,West,18,9687.15,5,1
+VIS1164,12/31/2023,PAT5164,Green Valley Clinic,Cardiology,Migraine,South,44,6601.69,2,0
+VIS1165,1/30/2025,PAT5165,Green Valley Clinic,Emergency,Fracture,North,76,5783.59,4,0
+VIS1166,7/19/2024,PAT5166,Oakwood Medical,Oncology,Cancer,East,12,1886.12,3,1
+VIS1167,11/17/2024,PAT5167,Green Valley Clinic,Cardiology,Diabetes,South,149,6607.71,1,0
+VIS1168,10/31/2024,PAT5168,St. Mary’s,Cardiology,Cancer,South,101,4256.34,3,0
+VIS1169,9/26/2023,PAT5169,Green Valley Clinic,Orthopedics,Cancer,East,150,6002.62,1,0
+VIS1170,5/9/2023,PAT5170,Hope General,Emergency,Hypertension,North,74,4486.82,4,1
+VIS1171,8/19/2024,PAT5171,Oakwood Medical,Pediatrics,Asthma,East,60,7573.94,1,1
+VIS1172,4/7/2024,PAT5172,Sunrise Hospital,Cardiology,Fracture,West,139,6704.61,1,0
+VIS1173,1/26/2024,PAT5173,Sunrise Hospital,Emergency,Hypertension,North,57,3084.05,2,0
+VIS1174,12/31/2024,PAT5174,Green Valley Clinic,Orthopedics,Fracture,North,6,5024.11,4,0
+VIS1175,4/9/2025,PAT5175,Hope General,Pediatrics,Migraine,South,133,5631.36,3,0
+VIS1176,11/29/2023,PAT5176,Sunrise Hospital,Oncology,Hypertension,West,9,4651.57,1,1
+VIS1177,10/20/2024,PAT5177,Oakwood Medical,Pediatrics,Migraine,West,168,4235.17,1,1
+VIS1178,2/1/2024,PAT5178,St. Mary’s,Orthopedics,Diabetes,West,97,972.49,1,0
+VIS1179,1/5/2024,PAT5179,Sunrise Hospital,Emergency,Asthma,North,106,8718.19,3,0
+VIS1180,10/7/2023,PAT5180,Green Valley Clinic,Neurology,Hypertension,North,140,5148.53,3,1
+VIS1181,6/13/2023,PAT5181,Hope General,Neurology,Hypertension,South,70,2052.99,5,0
+VIS1182,7/24/2023,PAT5182,St. Mary’s,Neurology,Cancer,West,123,7569.01,5,1
+VIS1183,6/9/2023,PAT5183,Oakwood Medical,Oncology,Cancer,East,165,3229.78,4,0
+VIS1184,6/11/2023,PAT5184,Sunrise Hospital,Pediatrics,Cancer,East,75,5955.06,3,0
+VIS1185,11/30/2023,PAT5185,Green Valley Clinic,Pediatrics,Asthma,North,19,3750.5,3,0
+VIS1186,12/28/2023,PAT5186,St. Mary’s,Emergency,Migraine,West,123,5845.26,1,1
+VIS1187,4/22/2025,PAT5187,Oakwood Medical,Oncology,Diabetes,East,159,4808.73,2,0
+VIS1188,3/2/2025,PAT5188,Sunrise Hospital,Cardiology,Fracture,North,134,6496.66,1,0
+VIS1189,1/20/2024,PAT5189,Sunrise Hospital,Pediatrics,Migraine,South,98,3791.23,3,1
+VIS1190,8/3/2023,PAT5190,Sunrise Hospital,Orthopedics,Cancer,North,166,6508.32,1,1
+VIS1191,8/31/2024,PAT5191,St. Mary’s,Emergency,Cancer,West,77,2594.76,5,0
+VIS1192,3/20/2025,PAT5192,Green Valley Clinic,Cardiology,Migraine,South,94,3171.29,4,0
+VIS1193,11/12/2023,PAT5193,Oakwood Medical,Oncology,Hypertension,East,148,3829.13,3,0
+VIS1194,9/18/2024,PAT5194,Oakwood Medical,Cardiology,Cancer,West,135,3682.1,3,1
+VIS1195,9/22/2023,PAT5195,Hope General,Neurology,Fracture,West,54,2342.78,2,0
+VIS1196,2/3/2025,PAT5196,St. Mary’s,Orthopedics,Hypertension,North,174,3433.97,5,0
+VIS1197,1/17/2025,PAT5197,Oakwood Medical,Pediatrics,Diabetes,South,51,8330.32,5,0
+VIS1198,5/18/2023,PAT5198,Sunrise Hospital,Cardiology,Asthma,East,178,7223.9,4,1
+VIS1199,6/22/2023,PAT5199,Sunrise Hospital,Neurology,Migraine,South,84,9659.41,4,0
+VIS1200,4/18/2024,PAT5200,Green Valley Clinic,Oncology,Migraine,West,123,7717.44,4,1
+VIS1201,11/24/2024,PAT5201,Hope General,Neurology,Migraine,South,69,616.58,4,1
+VIS1202,12/28/2024,PAT5202,Oakwood Medical,Cardiology,Cancer,North,77,930.36,2,1
+VIS1203,5/15/2023,PAT5203,Sunrise Hospital,Emergency,Diabetes,West,28,9469.49,2,1
+VIS1204,10/15/2024,PAT5204,Green Valley Clinic,Cardiology,Asthma,North,106,5069.87,2,1
+VIS1205,6/19/2024,PAT5205,St. Mary’s,Orthopedics,Diabetes,North,86,9315.18,3,0
+VIS1206,11/1/2023,PAT5206,Hope General,Cardiology,Fracture,West,40,7612.53,4,1
+VIS1207,9/9/2024,PAT5207,Oakwood Medical,Cardiology,Hypertension,North,70,2234.98,2,1
+VIS1208,7/30/2024,PAT5208,St. Mary’s,Orthopedics,Diabetes,East,36,572.72,4,1
+VIS1209,11/11/2023,PAT5209,St. Mary’s,Cardiology,Asthma,North,166,5202.22,2,0
+VIS1210,3/2/2025,PAT5210,Green Valley Clinic,Pediatrics,Hypertension,East,66,5749.57,2,0
+VIS1211,2/20/2025,PAT5211,Oakwood Medical,Orthopedics,Hypertension,North,104,8745.98,1,1
+VIS1212,1/20/2024,PAT5212,Green Valley Clinic,Orthopedics,Cancer,North,96,7906.35,3,0
+VIS1213,10/1/2023,PAT5213,St. Mary’s,Emergency,Cancer,East,39,538.92,5,1
+VIS1214,4/27/2025,PAT5214,Hope General,Oncology,Asthma,West,166,1904.55,2,0
+VIS1215,3/31/2024,PAT5215,Sunrise Hospital,Cardiology,Fracture,South,16,7931.98,1,1
+VIS1216,7/7/2024,PAT5216,Green Valley Clinic,Emergency,Asthma,West,69,462.55,2,1
+VIS1217,3/5/2024,PAT5217,Green Valley Clinic,Cardiology,Cancer,East,74,1332.3,3,1
+VIS1218,7/18/2024,PAT5218,Sunrise Hospital,Oncology,Asthma,West,91,9739.86,4,1
+VIS1219,9/20/2023,PAT5219,Green Valley Clinic,Emergency,Fracture,North,113,881.38,5,0
+VIS1220,10/26/2023,PAT5220,Oakwood Medical,Orthopedics,Fracture,North,25,3346.41,3,1
+VIS1221,11/21/2023,PAT5221,Sunrise Hospital,Emergency,Cancer,West,47,6928.67,3,1
+VIS1222,6/4/2024,PAT5222,St. Mary’s,Oncology,Fracture,West,75,6430.75,1,0
+VIS1223,9/16/2023,PAT5223,Sunrise Hospital,Orthopedics,Migraine,South,12,1513.52,5,1
+VIS1224,4/6/2025,PAT5224,St. Mary’s,Neurology,Hypertension,South,170,3726.65,4,0
+VIS1225,5/18/2023,PAT5225,Oakwood Medical,Neurology,Cancer,West,99,3782.93,1,0
+VIS1226,12/20/2023,PAT5226,Oakwood Medical,Orthopedics,Asthma,East,171,2859.03,1,0
+VIS1227,9/5/2024,PAT5227,Hope General,Pediatrics,Migraine,West,148,1265.83,3,1
+VIS1228,7/4/2023,PAT5228,Hope General,Emergency,Fracture,West,56,1314.11,1,1
+VIS1229,10/7/2023,PAT5229,Hope General,Oncology,Asthma,North,179,9678.86,3,1
+VIS1230,8/9/2023,PAT5230,St. Mary’s,Emergency,Migraine,East,81,8528.48,2,1
+VIS1231,8/19/2024,PAT5231,Oakwood Medical,Neurology,Hypertension,South,40,2443.69,4,0
+VIS1232,12/28/2023,PAT5232,Green Valley Clinic,Emergency,Migraine,East,124,8056.25,5,0
+VIS1233,8/12/2024,PAT5233,Oakwood Medical,Cardiology,Hypertension,East,106,9995.99,4,1
+VIS1234,1/28/2025,PAT5234,Sunrise Hospital,Emergency,Hypertension,South,86,6459.15,4,1
+VIS1235,4/21/2024,PAT5235,Oakwood Medical,Orthopedics,Diabetes,South,38,4382.92,1,0
+VIS1236,7/4/2024,PAT5236,Oakwood Medical,Neurology,Fracture,South,46,3294.34,2,1
+VIS1237,8/13/2023,PAT5237,Oakwood Medical,Orthopedics,Hypertension,East,55,6387.07,5,1
+VIS1238,6/19/2024,PAT5238,Hope General,Oncology,Fracture,North,133,6445.78,5,0
+VIS1239,12/12/2024,PAT5239,Hope General,Oncology,Migraine,East,149,507.82,1,0
+VIS1240,6/6/2024,PAT5240,St. Mary’s,Oncology,Migraine,East,171,2187,5,1
+VIS1241,8/21/2024,PAT5241,Oakwood Medical,Oncology,Hypertension,West,165,5501.22,3,1
+VIS1242,4/6/2025,PAT5242,Hope General,Oncology,Asthma,East,121,822.43,1,0
+VIS1243,8/29/2023,PAT5243,Sunrise Hospital,Pediatrics,Asthma,West,57,3467.91,2,1
+VIS1244,11/15/2024,PAT5244,Green Valley Clinic,Oncology,Fracture,West,38,7630.58,5,0
+VIS1245,8/3/2023,PAT5245,Green Valley Clinic,Neurology,Asthma,North,73,4551,2,0
+VIS1246,5/2/2025,PAT5246,St. Mary’s,Orthopedics,Asthma,West,68,9630.59,2,1
+VIS1247,6/2/2024,PAT5247,Oakwood Medical,Oncology,Fracture,South,45,5032.83,5,1
+VIS1248,7/2/2023,PAT5248,Sunrise Hospital,Orthopedics,Asthma,North,28,9457.8,5,1
+VIS1249,8/11/2024,PAT5249,Hope General,Neurology,Migraine,East,17,600.35,4,1
+VIS1250,8/29/2024,PAT5250,Green Valley Clinic,Emergency,Hypertension,North,115,1425.96,3,1
+VIS1251,2/28/2024,PAT5251,Sunrise Hospital,Orthopedics,Hypertension,West,18,5745.79,2,1
+VIS1252,10/14/2024,PAT5252,Oakwood Medical,Orthopedics,Hypertension,West,134,4558.51,5,1
+VIS1253,10/22/2023,PAT5253,Oakwood Medical,Oncology,Migraine,North,37,9753.32,4,1
+VIS1254,12/10/2023,PAT5254,Green Valley Clinic,Emergency,Fracture,South,55,6064.38,4,0
+VIS1255,1/18/2024,PAT5255,St. Mary’s,Cardiology,Diabetes,East,126,5241.39,2,0
+VIS1256,8/16/2023,PAT5256,Green Valley Clinic,Emergency,Fracture,South,105,9907.1,3,1
+VIS1257,6/29/2024,PAT5257,Oakwood Medical,Emergency,Migraine,West,149,3067.93,1,1
+VIS1258,2/5/2025,PAT5258,Green Valley Clinic,Oncology,Hypertension,West,154,3146.01,1,1
+VIS1259,4/25/2024,PAT5259,Green Valley Clinic,Oncology,Migraine,South,18,5876.88,2,1
+VIS1260,1/26/2025,PAT5260,Hope General,Oncology,Diabetes,North,151,9487.23,1,0
+VIS1261,3/10/2024,PAT5261,St. Mary’s,Pediatrics,Fracture,West,43,4188.31,2,1
+VIS1262,11/5/2024,PAT5262,Oakwood Medical,Emergency,Asthma,North,40,5234.96,5,1
+VIS1263,12/23/2023,PAT5263,Sunrise Hospital,Emergency,Asthma,East,49,4650.67,5,1
+VIS1264,11/26/2024,PAT5264,Oakwood Medical,Orthopedics,Cancer,East,161,4893.38,2,1
+VIS1265,10/31/2023,PAT5265,Oakwood Medical,Orthopedics,Diabetes,East,78,7078.52,4,1
+VIS1266,6/17/2024,PAT5266,Sunrise Hospital,Orthopedics,Migraine,East,78,1306.55,5,1
+VIS1267,6/12/2023,PAT5267,Sunrise Hospital,Orthopedics,Diabetes,East,15,2947.54,1,1
+VIS1268,2/15/2024,PAT5268,Sunrise Hospital,Oncology,Fracture,West,59,2100.47,5,1
+VIS1269,9/12/2024,PAT5269,Oakwood Medical,Oncology,Fracture,South,32,6195.2,5,0
+VIS1270,3/24/2024,PAT5270,Hope General,Cardiology,Cancer,South,168,2405.08,1,1
+VIS1271,11/1/2024,PAT5271,Green Valley Clinic,Oncology,Asthma,North,179,7730.58,1,0
+VIS1272,2/23/2025,PAT5272,Sunrise Hospital,Oncology,Asthma,West,171,2074.61,3,1
+VIS1273,7/6/2023,PAT5273,Green Valley Clinic,Oncology,Hypertension,North,171,5783.92,5,0
+VIS1274,10/26/2024,PAT5274,Hope General,Pediatrics,Diabetes,North,106,7900.81,2,1
+VIS1275,7/3/2024,PAT5275,St. Mary’s,Cardiology,Fracture,North,90,2917.16,5,1
+VIS1276,12/29/2024,PAT5276,Hope General,Emergency,Asthma,East,54,8107.26,3,0
+VIS1277,10/11/2024,PAT5277,Sunrise Hospital,Oncology,Fracture,South,8,7392.52,3,0
+VIS1278,6/23/2024,PAT5278,Hope General,Emergency,Cancer,West,114,5201.28,1,1
+VIS1279,2/29/2024,PAT5279,St. Mary’s,Neurology,Diabetes,West,87,9364.67,1,1
+VIS1280,11/4/2023,PAT5280,Sunrise Hospital,Neurology,Asthma,East,89,3089.26,5,0
+VIS1281,3/25/2025,PAT5281,Green Valley Clinic,Oncology,Fracture,South,20,6711.08,4,1
+VIS1282,10/1/2024,PAT5282,Hope General,Pediatrics,Cancer,East,35,6423.24,3,1
+VIS1283,9/27/2024,PAT5283,Oakwood Medical,Neurology,Diabetes,South,127,1616.54,5,1
+VIS1284,7/8/2024,PAT5284,Sunrise Hospital,Oncology,Migraine,West,142,8039.75,2,0
+VIS1285,7/18/2024,PAT5285,Oakwood Medical,Cardiology,Migraine,West,140,7067.28,1,0
+VIS1286,11/5/2023,PAT5286,St. Mary’s,Emergency,Migraine,South,151,5412.94,2,1
+VIS1287,7/1/2024,PAT5287,Oakwood Medical,Pediatrics,Hypertension,South,154,4939.4,5,1
+VIS1288,3/26/2025,PAT5288,St. Mary’s,Pediatrics,Diabetes,West,121,5682.72,5,1
+VIS1289,8/30/2023,PAT5289,Green Valley Clinic,Oncology,Hypertension,West,70,8182.89,2,0
+VIS1290,8/8/2023,PAT5290,St. Mary’s,Pediatrics,Fracture,North,143,9941.82,1,1
+VIS1291,4/7/2024,PAT5291,St. Mary’s,Orthopedics,Asthma,South,39,7681.69,4,1
+VIS1292,10/25/2024,PAT5292,Sunrise Hospital,Pediatrics,Asthma,West,25,6859.03,5,0
+VIS1293,5/16/2023,PAT5293,Green Valley Clinic,Cardiology,Diabetes,West,140,1360.74,2,0
+VIS1294,3/3/2024,PAT5294,St. Mary’s,Orthopedics,Asthma,West,141,3854.84,2,0
+VIS1295,6/15/2023,PAT5295,Sunrise Hospital,Orthopedics,Diabetes,East,53,9380.36,1,0
+VIS1296,1/23/2024,PAT5296,Sunrise Hospital,Emergency,Hypertension,South,57,766.18,5,0
+VIS1297,6/12/2024,PAT5297,Sunrise Hospital,Emergency,Cancer,North,67,7431.36,4,1
+VIS1298,11/18/2024,PAT5298,Hope General,Emergency,Diabetes,North,40,5088.57,3,0
+VIS1299,1/23/2024,PAT5299,Oakwood Medical,Orthopedics,Migraine,East,65,3087.47,2,0
+VIS1300,7/17/2023,PAT5300,Sunrise Hospital,Orthopedics,Fracture,North,147,9490.35,2,1
+VIS1301,6/13/2024,PAT5301,Oakwood Medical,Pediatrics,Hypertension,East,169,6746.29,5,1
+VIS1302,4/27/2025,PAT5302,Sunrise Hospital,Pediatrics,Diabetes,East,101,1920.4,5,1
+VIS1303,7/14/2024,PAT5303,Hope General,Neurology,Fracture,South,123,9155.94,5,1
+VIS1304,10/14/2023,PAT5304,Sunrise Hospital,Emergency,Migraine,South,104,2504.3,2,1
+VIS1305,4/28/2025,PAT5305,St. Mary’s,Pediatrics,Fracture,North,142,7273.39,2,0
+VIS1306,9/9/2024,PAT5306,Green Valley Clinic,Pediatrics,Cancer,North,23,1962.82,5,0
+VIS1307,3/9/2025,PAT5307,Sunrise Hospital,Neurology,Fracture,East,8,2196.9,2,0
+VIS1308,2/25/2025,PAT5308,Sunrise Hospital,Neurology,Cancer,South,106,9159.75,5,1
+VIS1309,8/10/2024,PAT5309,Green Valley Clinic,Pediatrics,Asthma,East,83,2689.46,5,1
+VIS1310,10/6/2023,PAT5310,Sunrise Hospital,Cardiology,Cancer,West,86,9151.87,3,1
+VIS1311,12/16/2023,PAT5311,Sunrise Hospital,Cardiology,Migraine,South,42,260.58,5,1
+VIS1312,5/19/2023,PAT5312,Green Valley Clinic,Neurology,Diabetes,East,63,3860.41,2,1
+VIS1313,2/25/2025,PAT5313,Oakwood Medical,Oncology,Cancer,East,70,7657.27,4,1
+VIS1314,9/7/2023,PAT5314,Sunrise Hospital,Neurology,Cancer,East,48,1485.59,5,1
+VIS1315,3/26/2024,PAT5315,Hope General,Emergency,Cancer,North,139,434.86,1,0
+VIS1316,12/19/2023,PAT5316,St. Mary’s,Pediatrics,Diabetes,South,22,7100.98,1,0
+VIS1317,6/2/2023,PAT5317,Oakwood Medical,Pediatrics,Fracture,North,163,6413.51,5,1
+VIS1318,1/4/2025,PAT5318,Sunrise Hospital,Cardiology,Hypertension,West,8,265.59,3,1
+VIS1319,2/27/2025,PAT5319,St. Mary’s,Emergency,Cancer,West,50,1159.46,1,0
+VIS1320,7/31/2024,PAT5320,Hope General,Neurology,Migraine,East,95,2746.51,4,0
+VIS1321,1/24/2024,PAT5321,Green Valley Clinic,Pediatrics,Asthma,South,62,3069.75,1,0
+VIS1322,7/13/2024,PAT5322,St. Mary’s,Pediatrics,Asthma,West,146,4812.45,1,0
+VIS1323,8/13/2023,PAT5323,St. Mary’s,Pediatrics,Asthma,East,149,9775.56,1,0
+VIS1324,9/24/2024,PAT5324,Hope General,Neurology,Cancer,West,74,560.96,1,1
+VIS1325,8/7/2023,PAT5325,Oakwood Medical,Emergency,Cancer,North,50,9294.79,3,0
+VIS1326,12/14/2024,PAT5326,Hope General,Emergency,Diabetes,West,24,3062.84,5,0
+VIS1327,6/10/2024,PAT5327,Oakwood Medical,Pediatrics,Cancer,East,103,7580.53,2,0
+VIS1328,11/10/2024,PAT5328,Oakwood Medical,Oncology,Fracture,North,30,4427.17,1,1
+VIS1329,6/29/2023,PAT5329,Oakwood Medical,Emergency,Migraine,West,88,393.29,3,1
+VIS1330,8/24/2023,PAT5330,Sunrise Hospital,Neurology,Fracture,West,115,1938.8,5,1
+VIS1331,5/12/2023,PAT5331,St. Mary’s,Emergency,Fracture,South,23,912.18,2,1
+VIS1332,7/29/2024,PAT5332,Hope General,Oncology,Asthma,East,97,1154.85,1,1
+VIS1333,8/6/2023,PAT5333,Sunrise Hospital,Orthopedics,Fracture,North,38,964.24,4,1
+VIS1334,12/6/2023,PAT5334,Oakwood Medical,Emergency,Migraine,West,31,359.99,3,0
+VIS1335,10/3/2023,PAT5335,Oakwood Medical,Emergency,Fracture,West,8,2989.29,4,0
+VIS1336,4/28/2024,PAT5336,Oakwood Medical,Neurology,Migraine,South,180,3869.25,2,1
+VIS1337,11/26/2024,PAT5337,Green Valley Clinic,Orthopedics,Asthma,South,21,1755.35,3,1
+VIS1338,10/14/2023,PAT5338,Green Valley Clinic,Pediatrics,Hypertension,East,69,9447.8,4,0
+VIS1339,2/2/2025,PAT5339,Sunrise Hospital,Cardiology,Diabetes,East,6,9493.35,3,1
+VIS1340,10/24/2024,PAT5340,Green Valley Clinic,Pediatrics,Fracture,West,171,9744.83,2,1
+VIS1341,7/19/2023,PAT5341,Green Valley Clinic,Emergency,Cancer,South,127,3210.41,4,1
+VIS1342,12/25/2023,PAT5342,Green Valley Clinic,Oncology,Cancer,West,152,7841.55,3,1
+VIS1343,2/22/2025,PAT5343,Green Valley Clinic,Pediatrics,Fracture,North,149,2078.02,5,0
+VIS1344,6/3/2023,PAT5344,Oakwood Medical,Cardiology,Cancer,West,58,4440.7,3,0
+VIS1345,12/6/2024,PAT5345,Sunrise Hospital,Oncology,Asthma,South,167,3098.04,3,0
+VIS1346,3/16/2024,PAT5346,Sunrise Hospital,Pediatrics,Hypertension,West,158,4844.42,4,1
+VIS1347,4/11/2025,PAT5347,Oakwood Medical,Cardiology,Fracture,North,32,7712.65,3,0
+VIS1348,10/28/2023,PAT5348,Oakwood Medical,Cardiology,Migraine,West,89,9660.6,4,0
+VIS1349,12/14/2023,PAT5349,St. Mary’s,Cardiology,Fracture,South,135,7493.84,5,0
+VIS1350,8/15/2024,PAT5350,Sunrise Hospital,Orthopedics,Asthma,West,178,5927.04,5,0
+VIS1351,11/17/2023,PAT5351,Green Valley Clinic,Cardiology,Asthma,North,80,4218.16,1,0
+VIS1352,10/9/2024,PAT5352,Hope General,Orthopedics,Fracture,East,121,7864.27,5,1
+VIS1353,5/22/2023,PAT5353,Green Valley Clinic,Pediatrics,Hypertension,West,120,3257.2,3,0
+VIS1354,5/31/2023,PAT5354,St. Mary’s,Cardiology,Fracture,North,178,8020.5,2,0
+VIS1355,8/18/2023,PAT5355,Oakwood Medical,Neurology,Fracture,West,123,2395.37,4,0
+VIS1356,9/8/2023,PAT5356,Hope General,Oncology,Cancer,West,106,389,5,0
+VIS1357,5/31/2024,PAT5357,Sunrise Hospital,Emergency,Asthma,West,6,7076.88,2,1
+VIS1358,1/24/2025,PAT5358,St. Mary’s,Emergency,Hypertension,South,98,3327.25,4,0
+VIS1359,11/14/2023,PAT5359,Green Valley Clinic,Oncology,Asthma,East,157,3947.53,4,0
+VIS1360,8/26/2024,PAT5360,Green Valley Clinic,Orthopedics,Asthma,South,177,7089.28,3,0
+VIS1361,1/15/2024,PAT5361,Hope General,Orthopedics,Hypertension,South,83,1257.79,3,0
+VIS1362,11/14/2023,PAT5362,Oakwood Medical,Pediatrics,Asthma,South,152,3898.73,2,1
+VIS1363,7/25/2023,PAT5363,Oakwood Medical,Oncology,Cancer,South,147,1751.97,3,0
+VIS1364,9/9/2023,PAT5364,Hope General,Orthopedics,Asthma,North,96,9523.24,4,0
+VIS1365,5/21/2024,PAT5365,Hope General,Pediatrics,Migraine,West,109,6878.5,4,1
+VIS1366,11/4/2023,PAT5366,Sunrise Hospital,Neurology,Hypertension,North,61,2991.69,3,0
+VIS1367,11/30/2024,PAT5367,Oakwood Medical,Orthopedics,Diabetes,West,149,7450.93,4,0
+VIS1368,3/19/2024,PAT5368,Oakwood Medical,Cardiology,Fracture,East,143,8243.85,1,1
+VIS1369,1/14/2024,PAT5369,Oakwood Medical,Neurology,Asthma,North,172,7538.32,3,0
+VIS1370,2/5/2025,PAT5370,Sunrise Hospital,Orthopedics,Fracture,North,117,8666.38,1,0
+VIS1371,11/10/2024,PAT5371,Hope General,Oncology,Migraine,East,161,6364.43,2,0
+VIS1372,9/19/2024,PAT5372,Hope General,Neurology,Hypertension,East,141,2882.74,5,0
+VIS1373,3/27/2024,PAT5373,Green Valley Clinic,Oncology,Fracture,East,151,2746.7,5,0
+VIS1374,7/21/2024,PAT5374,Hope General,Pediatrics,Hypertension,East,172,1356.19,2,0
+VIS1375,3/30/2024,PAT5375,Hope General,Oncology,Fracture,South,178,3987.74,2,1
+VIS1376,11/8/2024,PAT5376,Sunrise Hospital,Pediatrics,Asthma,North,167,7966.53,1,1
+VIS1377,3/11/2024,PAT5377,Oakwood Medical,Oncology,Fracture,East,121,9507.52,3,0
+VIS1378,8/4/2024,PAT5378,St. Mary’s,Oncology,Asthma,East,21,7977.21,4,0
+VIS1379,1/22/2024,PAT5379,Sunrise Hospital,Neurology,Asthma,East,87,8300.6,3,0
+VIS1380,12/21/2023,PAT5380,Oakwood Medical,Pediatrics,Fracture,North,16,1085.79,4,0
+VIS1381,7/9/2024,PAT5381,St. Mary’s,Neurology,Asthma,West,5,9919.2,4,0
+VIS1382,3/5/2024,PAT5382,Hope General,Oncology,Fracture,South,75,1024.07,3,1
+VIS1383,4/10/2025,PAT5383,St. Mary’s,Orthopedics,Cancer,South,18,4023.78,3,0
+VIS1384,4/1/2024,PAT5384,Sunrise Hospital,Oncology,Hypertension,North,5,2212.87,1,0
+VIS1385,12/1/2023,PAT5385,Oakwood Medical,Neurology,Migraine,West,7,179.82,3,0
+VIS1386,9/3/2023,PAT5386,Sunrise Hospital,Oncology,Diabetes,West,23,2366.57,1,0
+VIS1387,3/31/2024,PAT5387,St. Mary’s,Orthopedics,Fracture,East,40,3888.94,2,0
+VIS1388,5/7/2023,PAT5388,St. Mary’s,Emergency,Migraine,North,161,6535.2,4,1
+VIS1389,7/24/2024,PAT5389,Hope General,Oncology,Cancer,South,110,6199.15,4,0
+VIS1390,11/28/2024,PAT5390,St. Mary’s,Cardiology,Diabetes,North,155,7327.09,3,1
+VIS1391,12/3/2023,PAT5391,Green Valley Clinic,Neurology,Diabetes,East,170,934.06,5,1
+VIS1392,1/19/2024,PAT5392,St. Mary’s,Oncology,Fracture,South,137,6108.58,2,1
+VIS1393,4/15/2025,PAT5393,Green Valley Clinic,Oncology,Hypertension,South,131,3920.27,2,1
+VIS1394,2/7/2024,PAT5394,Oakwood Medical,Cardiology,Migraine,North,97,9345.85,2,1
+VIS1395,12/7/2024,PAT5395,Oakwood Medical,Pediatrics,Fracture,South,125,9549.08,1,0
+VIS1396,1/2/2024,PAT5396,Oakwood Medical,Cardiology,Hypertension,East,60,494.29,1,1
+VIS1397,6/25/2024,PAT5397,Oakwood Medical,Orthopedics,Cancer,West,113,7047.93,1,0
+VIS1398,3/26/2024,PAT5398,Green Valley Clinic,Cardiology,Fracture,North,135,9217.16,2,1
+VIS1399,2/8/2025,PAT5399,Sunrise Hospital,Emergency,Cancer,North,84,7016.89,2,0
+VIS1400,8/12/2024,PAT5400,Hope General,Cardiology,Asthma,North,121,6161.74,1,1
+VIS1401,4/29/2025,PAT5401,Hope General,Cardiology,Hypertension,South,7,1721.94,3,1
+VIS1402,9/7/2023,PAT5402,Hope General,Orthopedics,Diabetes,East,35,7737.16,1,1
+VIS1403,10/10/2024,PAT5403,Sunrise Hospital,Orthopedics,Migraine,North,72,7152,5,0
+VIS1404,2/22/2025,PAT5404,Sunrise Hospital,Pediatrics,Migraine,East,19,5046.14,5,0
+VIS1405,1/14/2024,PAT5405,Green Valley Clinic,Neurology,Fracture,North,151,6773.79,1,0
+VIS1406,10/31/2024,PAT5406,Oakwood Medical,Cardiology,Hypertension,North,67,555.22,3,1
+VIS1407,12/25/2024,PAT5407,Hope General,Neurology,Hypertension,West,62,3285.84,4,1
+VIS1408,9/29/2023,PAT5408,Green Valley Clinic,Cardiology,Migraine,East,35,5070.21,1,0
+VIS1409,8/16/2023,PAT5409,Hope General,Emergency,Hypertension,West,22,8782.21,3,1
+VIS1410,10/21/2024,PAT5410,Green Valley Clinic,Cardiology,Migraine,West,7,3752.3,3,1
+VIS1411,11/12/2024,PAT5411,Oakwood Medical,Neurology,Asthma,East,156,9721.39,2,0
+VIS1412,10/22/2023,PAT5412,Hope General,Cardiology,Asthma,North,64,5461.3,1,1
+VIS1413,4/8/2024,PAT5413,St. Mary’s,Oncology,Asthma,East,31,2131.42,2,1
+VIS1414,5/2/2024,PAT5414,Sunrise Hospital,Cardiology,Diabetes,East,28,534.61,2,1
+VIS1415,10/2/2024,PAT5415,Green Valley Clinic,Pediatrics,Cancer,North,153,1046.21,2,1
+VIS1416,2/24/2025,PAT5416,St. Mary’s,Emergency,Migraine,North,116,6658.19,2,0
+VIS1417,6/27/2024,PAT5417,Green Valley Clinic,Orthopedics,Fracture,West,88,3248.77,3,0
+VIS1418,2/22/2025,PAT5418,St. Mary’s,Neurology,Diabetes,North,44,1146.01,4,1
+VIS1419,11/18/2023,PAT5419,Green Valley Clinic,Pediatrics,Hypertension,East,58,4573.98,4,1
+VIS1420,1/6/2024,PAT5420,St. Mary’s,Cardiology,Diabetes,East,159,499.27,3,0
+VIS1421,12/22/2024,PAT5421,St. Mary’s,Oncology,Diabetes,East,106,5183.25,3,1
+VIS1422,4/11/2024,PAT5422,Hope General,Cardiology,Asthma,West,147,7505.98,2,0
+VIS1423,2/8/2024,PAT5423,Sunrise Hospital,Cardiology,Diabetes,North,8,710.52,2,0
+VIS1424,4/25/2025,PAT5424,Hope General,Pediatrics,Fracture,North,154,5902.58,1,0
+VIS1425,8/21/2024,PAT5425,St. Mary’s,Neurology,Cancer,West,37,1010.59,3,0
+VIS1426,3/28/2025,PAT5426,St. Mary’s,Pediatrics,Hypertension,South,151,4388.25,4,1
+VIS1427,9/9/2024,PAT5427,St. Mary’s,Pediatrics,Cancer,West,49,3604.04,2,1
+VIS1428,2/6/2025,PAT5428,Green Valley Clinic,Pediatrics,Diabetes,North,162,6229.85,2,1
+VIS1429,9/10/2024,PAT5429,Sunrise Hospital,Pediatrics,Migraine,West,20,968.44,4,0
+VIS1430,2/21/2025,PAT5430,Sunrise Hospital,Neurology,Cancer,South,166,9941.46,5,0
+VIS1431,1/4/2024,PAT5431,Sunrise Hospital,Oncology,Fracture,West,144,7836.21,3,1
+VIS1432,7/24/2023,PAT5432,Sunrise Hospital,Orthopedics,Diabetes,North,86,6011.45,1,1
+VIS1433,9/12/2024,PAT5433,St. Mary’s,Pediatrics,Migraine,East,154,9996.1,2,0
+VIS1434,11/14/2023,PAT5434,Hope General,Oncology,Diabetes,East,141,8181.22,1,0
+VIS1435,4/12/2024,PAT5435,Oakwood Medical,Pediatrics,Fracture,South,50,2441.86,3,1
+VIS1436,6/22/2024,PAT5436,Oakwood Medical,Cardiology,Cancer,East,150,5679.7,5,0
+VIS1437,9/14/2023,PAT5437,Sunrise Hospital,Emergency,Fracture,South,130,475.84,1,0
+VIS1438,9/19/2023,PAT5438,Oakwood Medical,Neurology,Hypertension,West,5,3384.17,5,0
+VIS1439,3/27/2025,PAT5439,Hope General,Orthopedics,Cancer,South,87,689.6,2,0
+VIS1440,1/18/2025,PAT5440,St. Mary’s,Emergency,Fracture,North,100,7074.93,4,0
+VIS1441,8/1/2024,PAT5441,Green Valley Clinic,Orthopedics,Fracture,South,45,7350.29,4,1
+VIS1442,6/30/2024,PAT5442,Green Valley Clinic,Neurology,Cancer,East,62,6688.76,2,1
+VIS1443,12/31/2024,PAT5443,Green Valley Clinic,Oncology,Cancer,East,37,1859.31,1,1
+VIS1444,3/22/2025,PAT5444,Oakwood Medical,Cardiology,Diabetes,East,161,2286.86,5,0
+VIS1445,8/7/2024,PAT5445,Sunrise Hospital,Neurology,Fracture,North,65,3533.42,3,0
+VIS1446,3/2/2025,PAT5446,St. Mary’s,Oncology,Cancer,East,119,212.82,2,0
+VIS1447,12/21/2023,PAT5447,St. Mary’s,Orthopedics,Fracture,North,5,576.66,4,1
+VIS1448,1/27/2024,PAT5448,Hope General,Pediatrics,Asthma,West,94,5505.64,1,1
+VIS1449,6/1/2023,PAT5449,Oakwood Medical,Oncology,Cancer,South,46,4567.75,1,1
+VIS1450,1/11/2025,PAT5450,St. Mary’s,Orthopedics,Fracture,North,23,3483.9,4,0
+VIS1451,2/1/2025,PAT5451,St. Mary’s,Emergency,Hypertension,East,157,9854.23,4,0
+VIS1452,7/19/2024,PAT5452,Sunrise Hospital,Oncology,Diabetes,West,45,630.2,3,0
+VIS1453,4/23/2025,PAT5453,Hope General,Pediatrics,Cancer,East,174,2887.08,2,0
+VIS1454,2/17/2025,PAT5454,St. Mary’s,Pediatrics,Migraine,West,44,639.6,1,1
+VIS1455,8/25/2023,PAT5455,St. Mary’s,Orthopedics,Cancer,West,56,1060.17,2,0
+VIS1456,5/12/2023,PAT5456,Green Valley Clinic,Cardiology,Asthma,North,83,7870.28,4,1
+VIS1457,7/23/2024,PAT5457,Green Valley Clinic,Cardiology,Cancer,West,52,3773.1,4,1
+VIS1458,9/16/2023,PAT5458,Hope General,Pediatrics,Hypertension,East,117,4704.07,2,1
+VIS1459,3/24/2024,PAT5459,Oakwood Medical,Cardiology,Diabetes,North,26,6714.6,5,1
+VIS1460,3/11/2024,PAT5460,Oakwood Medical,Neurology,Migraine,North,104,8202.21,4,1
+VIS1461,1/30/2025,PAT5461,Oakwood Medical,Neurology,Asthma,East,25,4008.56,1,0
+VIS1462,1/28/2024,PAT5462,St. Mary’s,Pediatrics,Diabetes,South,59,8103.76,2,0
+VIS1463,4/16/2024,PAT5463,Sunrise Hospital,Cardiology,Cancer,West,56,9972.97,2,1
+VIS1464,8/15/2024,PAT5464,Green Valley Clinic,Oncology,Hypertension,North,104,5608.01,5,1
+VIS1465,11/3/2023,PAT5465,Green Valley Clinic,Emergency,Asthma,North,164,5917,4,0
+VIS1466,1/5/2024,PAT5466,Sunrise Hospital,Neurology,Diabetes,North,32,5670.57,1,1
+VIS1467,5/23/2023,PAT5467,Oakwood Medical,Orthopedics,Asthma,East,103,6582.4,5,1
+VIS1468,8/13/2024,PAT5468,St. Mary’s,Neurology,Fracture,West,41,6220.62,4,0
+VIS1469,7/19/2023,PAT5469,Sunrise Hospital,Orthopedics,Cancer,South,17,7482.92,3,1
+VIS1470,7/30/2024,PAT5470,St. Mary’s,Orthopedics,Fracture,East,76,8444.18,1,0
+VIS1471,6/15/2024,PAT5471,Hope General,Orthopedics,Cancer,West,87,2767.26,4,0
+VIS1472,11/14/2024,PAT5472,Hope General,Pediatrics,Diabetes,West,129,7618.98,3,0
+VIS1473,11/5/2023,PAT5473,Oakwood Medical,Neurology,Hypertension,East,134,4093.51,5,0
+VIS1474,10/20/2023,PAT5474,Hope General,Neurology,Diabetes,North,68,427.4,1,1
+VIS1475,12/12/2023,PAT5475,Hope General,Orthopedics,Fracture,West,134,4029.73,1,0
+VIS1476,9/28/2023,PAT5476,Hope General,Orthopedics,Asthma,West,50,9609.15,4,1
+VIS1477,9/20/2023,PAT5477,Green Valley Clinic,Neurology,Fracture,North,77,371.76,1,0
+VIS1478,2/3/2025,PAT5478,Oakwood Medical,Neurology,Diabetes,South,178,2146.64,4,0
+VIS1479,2/6/2025,PAT5479,St. Mary’s,Pediatrics,Diabetes,South,158,8028.56,2,1
+VIS1480,3/7/2025,PAT5480,Oakwood Medical,Orthopedics,Cancer,East,113,8965.28,3,1
+VIS1481,12/19/2024,PAT5481,Green Valley Clinic,Neurology,Asthma,East,178,5254.32,5,1
+VIS1482,9/17/2023,PAT5482,Oakwood Medical,Cardiology,Hypertension,East,148,6508.69,5,1
+VIS1483,5/10/2024,PAT5483,Green Valley Clinic,Oncology,Hypertension,West,21,3429.21,3,1
+VIS1484,4/18/2024,PAT5484,Green Valley Clinic,Orthopedics,Cancer,East,53,1584.3,2,0
+VIS1485,1/20/2024,PAT5485,Oakwood Medical,Pediatrics,Cancer,East,179,1485.3,1,1
+VIS1486,2/7/2025,PAT5486,Green Valley Clinic,Orthopedics,Asthma,West,104,7393.65,5,0
+VIS1487,4/16/2025,PAT5487,Green Valley Clinic,Oncology,Cancer,South,180,5392.89,4,1
+VIS1488,3/27/2024,PAT5488,Oakwood Medical,Orthopedics,Diabetes,South,80,1066.27,2,1
+VIS1489,11/4/2023,PAT5489,Oakwood Medical,Neurology,Cancer,East,172,984.07,3,0
+VIS1490,3/17/2025,PAT5490,Green Valley Clinic,Pediatrics,Fracture,East,71,5897.15,4,0
+VIS1491,11/1/2023,PAT5491,Sunrise Hospital,Cardiology,Cancer,North,125,8905.32,5,0
+VIS1492,4/10/2025,PAT5492,Sunrise Hospital,Emergency,Fracture,West,18,8721.41,2,0
+VIS1493,3/15/2024,PAT5493,Hope General,Orthopedics,Asthma,West,41,3232.2,2,0
+VIS1494,4/2/2025,PAT5494,Sunrise Hospital,Orthopedics,Cancer,South,85,6381.54,1,1
+VIS1495,12/1/2023,PAT5495,Green Valley Clinic,Neurology,Diabetes,South,130,7873.59,1,0
+VIS1496,4/25/2025,PAT5496,Oakwood Medical,Pediatrics,Cancer,West,108,4347.35,4,1
+VIS1497,7/27/2023,PAT5497,St. Mary’s,Cardiology,Migraine,South,100,9505.68,3,0
+VIS1498,10/30/2024,PAT5498,St. Mary’s,Oncology,Hypertension,South,62,6965.89,3,1
+VIS1499,2/1/2025,PAT5499,Hope General,Cardiology,Asthma,East,47,746.34,1,1
+VIS1500,8/6/2024,PAT5500,Green Valley Clinic,Pediatrics,Cancer,East,116,8890.94,2,1
+VIS1501,8/2/2024,PAT5501,Sunrise Hospital,Orthopedics,Diabetes,South,108,289.33,2,0
+VIS1502,12/23/2024,PAT5502,Hope General,Oncology,Hypertension,South,36,3729.26,1,1
+VIS1503,8/10/2023,PAT5503,Green Valley Clinic,Emergency,Migraine,North,157,9947.33,1,0
+VIS1504,6/15/2024,PAT5504,St. Mary’s,Oncology,Hypertension,West,118,3864.51,5,1
+VIS1505,9/29/2024,PAT5505,Sunrise Hospital,Oncology,Diabetes,South,180,6340.08,3,1
+VIS1506,7/18/2023,PAT5506,St. Mary’s,Oncology,Migraine,East,164,6095.78,2,1
+VIS1507,12/3/2023,PAT5507,St. Mary’s,Emergency,Cancer,North,77,1228.72,1,1
+VIS1508,1/17/2025,PAT5508,Hope General,Emergency,Diabetes,East,138,9733.89,3,1
+VIS1509,1/6/2024,PAT5509,Green Valley Clinic,Neurology,Hypertension,West,58,6913.22,4,1
+VIS1510,4/22/2024,PAT5510,Hope General,Cardiology,Hypertension,North,33,8368.8,4,0
+VIS1511,12/2/2024,PAT5511,St. Mary’s,Emergency,Hypertension,North,70,6478.93,4,1
+VIS1512,2/14/2025,PAT5512,Green Valley Clinic,Pediatrics,Hypertension,North,49,8753.99,3,1
+VIS1513,10/20/2024,PAT5513,Green Valley Clinic,Pediatrics,Cancer,North,29,8527.33,1,0
+VIS1514,11/24/2023,PAT5514,Hope General,Oncology,Cancer,South,89,3639.52,4,1
+VIS1515,2/3/2024,PAT5515,St. Mary’s,Orthopedics,Fracture,South,34,4067.7,4,1
+VIS1516,4/22/2025,PAT5516,Sunrise Hospital,Oncology,Asthma,West,171,8872.63,2,0
+VIS1517,6/11/2024,PAT5517,Hope General,Oncology,Cancer,North,45,1126.76,5,1
+VIS1518,6/3/2023,PAT5518,Oakwood Medical,Oncology,Asthma,South,161,3859.53,3,0
+VIS1519,10/26/2023,PAT5519,Hope General,Pediatrics,Asthma,North,110,4462.81,1,1
+VIS1520,1/15/2024,PAT5520,Green Valley Clinic,Cardiology,Cancer,South,176,8744.12,5,0
+VIS1521,3/31/2025,PAT5521,Sunrise Hospital,Oncology,Cancer,South,128,3522.92,4,0
+VIS1522,11/5/2023,PAT5522,Oakwood Medical,Emergency,Hypertension,North,169,9350.28,5,1
+VIS1523,7/26/2023,PAT5523,Sunrise Hospital,Neurology,Hypertension,West,87,2484.83,3,0
+VIS1524,1/22/2024,PAT5524,Oakwood Medical,Neurology,Migraine,West,108,8189.32,1,1
+VIS1525,8/11/2023,PAT5525,Sunrise Hospital,Emergency,Asthma,North,132,4525.97,1,1
+VIS1526,6/26/2023,PAT5526,St. Mary’s,Cardiology,Asthma,West,14,5615.6,1,0
+VIS1527,12/7/2024,PAT5527,Oakwood Medical,Emergency,Cancer,East,135,5667.09,4,1
+VIS1528,8/15/2024,PAT5528,Green Valley Clinic,Cardiology,Diabetes,West,89,5645.49,5,1
+VIS1529,2/19/2025,PAT5529,Green Valley Clinic,Oncology,Asthma,North,29,7617.27,2,0
+VIS1530,3/1/2024,PAT5530,Green Valley Clinic,Orthopedics,Cancer,East,145,5267.65,1,0
+VIS1531,9/26/2024,PAT5531,Hope General,Pediatrics,Diabetes,West,32,2617.46,2,0
+VIS1532,3/5/2024,PAT5532,St. Mary’s,Pediatrics,Diabetes,West,53,7196.2,1,1
+VIS1533,10/29/2024,PAT5533,St. Mary’s,Oncology,Cancer,North,120,4628.14,5,0
+VIS1534,8/12/2023,PAT5534,Sunrise Hospital,Cardiology,Migraine,North,146,9359.55,5,1
+VIS1535,12/24/2024,PAT5535,Oakwood Medical,Neurology,Cancer,South,37,1125.18,5,1
+VIS1536,8/16/2023,PAT5536,Oakwood Medical,Pediatrics,Asthma,South,75,4038.91,3,1
+VIS1537,5/12/2023,PAT5537,Sunrise Hospital,Neurology,Diabetes,West,159,7030.14,5,1
+VIS1538,2/21/2025,PAT5538,Oakwood Medical,Orthopedics,Cancer,South,56,2176.16,3,1
+VIS1539,4/4/2024,PAT5539,Hope General,Oncology,Cancer,South,133,5470.67,3,0
+VIS1540,3/31/2024,PAT5540,Green Valley Clinic,Emergency,Asthma,West,177,7503.9,5,1
+VIS1541,11/23/2024,PAT5541,Sunrise Hospital,Cardiology,Migraine,North,11,3870.62,1,0
+VIS1542,6/10/2024,PAT5542,Hope General,Orthopedics,Diabetes,East,179,2580.55,1,1
+VIS1543,7/16/2023,PAT5543,Hope General,Emergency,Hypertension,East,120,1114.55,5,0
+VIS1544,3/30/2025,PAT5544,Oakwood Medical,Pediatrics,Diabetes,East,175,565.1,4,1
+VIS1545,7/27/2023,PAT5545,Sunrise Hospital,Oncology,Fracture,North,8,7462.33,2,1
+VIS1546,1/13/2025,PAT5546,Hope General,Oncology,Cancer,East,155,5511.49,5,0
+VIS1547,2/28/2024,PAT5547,Hope General,Orthopedics,Asthma,South,179,837.24,2,0
+VIS1548,2/20/2025,PAT5548,Sunrise Hospital,Cardiology,Asthma,East,147,2715.97,2,1
+VIS1549,12/31/2024,PAT5549,St. Mary’s,Orthopedics,Asthma,South,15,1621.66,3,0
+VIS1550,1/11/2025,PAT5550,Oakwood Medical,Oncology,Fracture,West,151,5546.59,1,1
+VIS1551,3/5/2025,PAT5551,Oakwood Medical,Neurology,Diabetes,North,134,1677.77,5,1
+VIS1552,1/7/2024,PAT5552,St. Mary’s,Orthopedics,Diabetes,South,174,3385.65,3,1
+VIS1553,5/13/2023,PAT5553,Hope General,Emergency,Migraine,West,148,8254.52,1,0
+VIS1554,6/19/2024,PAT5554,Green Valley Clinic,Pediatrics,Diabetes,South,15,6857.26,3,1
+VIS1555,3/15/2024,PAT5555,St. Mary’s,Pediatrics,Fracture,East,11,9122.23,3,1
+VIS1556,6/20/2023,PAT5556,Sunrise Hospital,Cardiology,Fracture,South,87,5187.56,1,0
+VIS1557,2/2/2024,PAT5557,Oakwood Medical,Emergency,Hypertension,North,58,6736.32,2,1
+VIS1558,3/11/2025,PAT5558,St. Mary’s,Neurology,Migraine,West,170,8185.87,1,0
+VIS1559,4/26/2025,PAT5559,St. Mary’s,Pediatrics,Cancer,East,14,966.46,1,0
+VIS1560,2/4/2024,PAT5560,Green Valley Clinic,Emergency,Hypertension,South,71,4135.56,4,1
+VIS1561,8/5/2024,PAT5561,Sunrise Hospital,Orthopedics,Hypertension,West,177,1271.23,1,0
+VIS1562,5/30/2023,PAT5562,Oakwood Medical,Cardiology,Cancer,North,96,9287.67,1,1
+VIS1563,12/2/2023,PAT5563,Green Valley Clinic,Emergency,Hypertension,East,117,3875.99,1,1
+VIS1564,11/4/2023,PAT5564,Hope General,Emergency,Diabetes,South,105,7988.03,5,1
+VIS1565,8/23/2023,PAT5565,Hope General,Orthopedics,Cancer,East,7,5579.89,5,0
+VIS1566,10/22/2024,PAT5566,St. Mary’s,Cardiology,Hypertension,West,142,5520.5,1,1
+VIS1567,8/25/2023,PAT5567,Hope General,Oncology,Cancer,East,59,4185.28,5,0
+VIS1568,6/16/2023,PAT5568,Hope General,Neurology,Diabetes,East,54,1234.76,5,0
+VIS1569,8/22/2024,PAT5569,Oakwood Medical,Pediatrics,Cancer,North,79,6749.68,3,0
+VIS1570,9/23/2024,PAT5570,Hope General,Oncology,Migraine,West,89,3635.67,2,0
+VIS1571,5/6/2024,PAT5571,Green Valley Clinic,Emergency,Hypertension,South,86,4910.03,3,1
+VIS1572,9/21/2024,PAT5572,Oakwood Medical,Neurology,Migraine,East,85,9590.72,2,0
+VIS1573,4/7/2025,PAT5573,Green Valley Clinic,Neurology,Diabetes,West,75,8417.09,2,1
+VIS1574,7/21/2023,PAT5574,Sunrise Hospital,Pediatrics,Asthma,East,83,4921.02,1,0
+VIS1575,10/26/2024,PAT5575,Oakwood Medical,Cardiology,Fracture,South,142,2044.68,1,0
+VIS1576,8/11/2023,PAT5576,St. Mary’s,Emergency,Cancer,North,153,5831.12,5,0
+VIS1577,5/30/2024,PAT5577,St. Mary’s,Emergency,Fracture,West,172,7774.45,3,1
+VIS1578,9/15/2023,PAT5578,Hope General,Emergency,Cancer,East,39,4700.54,5,0
+VIS1579,11/13/2024,PAT5579,Sunrise Hospital,Orthopedics,Migraine,North,174,2464.92,5,0
+VIS1580,4/22/2024,PAT5580,Oakwood Medical,Neurology,Asthma,South,50,5706.94,5,0
+VIS1581,7/12/2023,PAT5581,Sunrise Hospital,Orthopedics,Hypertension,South,129,2394.32,3,1
+VIS1582,3/30/2025,PAT5582,Hope General,Cardiology,Cancer,South,137,9086.49,3,1
+VIS1583,12/26/2024,PAT5583,Sunrise Hospital,Pediatrics,Hypertension,North,171,3308.3,5,1
+VIS1584,10/28/2023,PAT5584,Green Valley Clinic,Emergency,Migraine,South,101,6571.39,3,0
+VIS1585,10/23/2024,PAT5585,Oakwood Medical,Orthopedics,Asthma,South,137,4117.84,3,1
+VIS1586,5/19/2024,PAT5586,Sunrise Hospital,Emergency,Hypertension,South,117,1739.5,1,1
+VIS1587,2/17/2024,PAT5587,Hope General,Neurology,Diabetes,South,97,6060,1,0
+VIS1588,7/30/2024,PAT5588,Sunrise Hospital,Orthopedics,Cancer,North,128,6784.77,4,0
+VIS1589,2/13/2025,PAT5589,Oakwood Medical,Neurology,Cancer,West,10,2512.34,2,0
+VIS1590,3/15/2025,PAT5590,Hope General,Oncology,Migraine,North,151,1553.96,2,1
+VIS1591,10/29/2023,PAT5591,Hope General,Emergency,Asthma,North,174,8230.9,1,0
+VIS1592,2/28/2025,PAT5592,Sunrise Hospital,Emergency,Asthma,West,48,2271.7,4,0
+VIS1593,11/16/2024,PAT5593,Oakwood Medical,Neurology,Migraine,East,47,7269.45,3,1
+VIS1594,2/24/2025,PAT5594,Oakwood Medical,Emergency,Hypertension,South,101,3916.07,1,0
+VIS1595,1/28/2025,PAT5595,Hope General,Emergency,Migraine,West,43,6094.56,2,1
+VIS1596,12/22/2023,PAT5596,Oakwood Medical,Emergency,Hypertension,North,28,4874.19,2,0
+VIS1597,8/23/2024,PAT5597,Sunrise Hospital,Emergency,Asthma,East,16,7006.66,4,0
+VIS1598,11/13/2023,PAT5598,Sunrise Hospital,Pediatrics,Fracture,North,113,1425.44,4,0
+VIS1599,4/24/2025,PAT5599,St. Mary’s,Orthopedics,Migraine,West,70,1971.31,1,0
+VIS1600,6/1/2023,PAT5600,Oakwood Medical,Cardiology,Asthma,South,85,4147.57,1,0
+VIS1601,8/28/2024,PAT5601,Sunrise Hospital,Oncology,Migraine,East,71,8564.27,4,1
+VIS1602,2/19/2025,PAT5602,Oakwood Medical,Orthopedics,Cancer,West,57,4190.96,5,1
+VIS1603,2/20/2025,PAT5603,Hope General,Orthopedics,Migraine,West,69,9886.23,5,1
+VIS1604,10/21/2023,PAT5604,Sunrise Hospital,Oncology,Diabetes,North,63,4521.29,2,0
+VIS1605,10/11/2023,PAT5605,Hope General,Emergency,Asthma,East,145,6178.85,1,0
+VIS1606,9/8/2023,PAT5606,Sunrise Hospital,Oncology,Hypertension,North,42,4769.52,5,1
+VIS1607,4/23/2024,PAT5607,St. Mary’s,Cardiology,Fracture,South,99,892.39,1,1
+VIS1608,5/17/2023,PAT5608,Sunrise Hospital,Emergency,Cancer,East,157,668.88,2,1
+VIS1609,11/13/2023,PAT5609,Sunrise Hospital,Cardiology,Diabetes,East,54,432.73,5,0
+VIS1610,12/16/2023,PAT5610,Oakwood Medical,Neurology,Cancer,North,97,2468.64,1,0
+VIS1611,8/30/2024,PAT5611,St. Mary’s,Orthopedics,Asthma,East,176,4011.92,5,0
+VIS1612,7/20/2023,PAT5612,Oakwood Medical,Cardiology,Cancer,North,28,5540.97,5,1
+VIS1613,10/6/2023,PAT5613,Green Valley Clinic,Orthopedics,Diabetes,South,121,9304.17,5,0
+VIS1614,2/6/2025,PAT5614,Green Valley Clinic,Neurology,Asthma,North,148,816.62,3,1
+VIS1615,9/29/2023,PAT5615,St. Mary’s,Emergency,Fracture,East,118,9663.95,5,1
+VIS1616,8/27/2023,PAT5616,Hope General,Orthopedics,Asthma,West,155,8634.03,4,0
+VIS1617,10/12/2024,PAT5617,Green Valley Clinic,Cardiology,Asthma,South,178,7041.64,3,1
+VIS1618,7/24/2024,PAT5618,Green Valley Clinic,Emergency,Migraine,North,72,2557.75,1,1
+VIS1619,9/5/2024,PAT5619,Green Valley Clinic,Cardiology,Migraine,South,126,3207.34,2,1
+VIS1620,10/28/2023,PAT5620,Hope General,Oncology,Cancer,South,132,7397.41,2,0
+VIS1621,6/19/2024,PAT5621,Green Valley Clinic,Neurology,Diabetes,South,68,8379.71,3,0
+VIS1622,1/26/2025,PAT5622,St. Mary’s,Cardiology,Hypertension,West,162,165.57,5,0
+VIS1623,4/14/2025,PAT5623,Sunrise Hospital,Orthopedics,Migraine,East,131,8991.4,5,1
+VIS1624,8/20/2023,PAT5624,Sunrise Hospital,Neurology,Migraine,East,106,2298.72,5,0
+VIS1625,10/13/2023,PAT5625,St. Mary’s,Emergency,Asthma,West,143,422.37,3,1
+VIS1626,4/7/2024,PAT5626,Hope General,Pediatrics,Hypertension,West,85,6923.18,1,0
+VIS1627,2/3/2025,PAT5627,Sunrise Hospital,Emergency,Hypertension,East,97,6166.5,3,0
+VIS1628,6/5/2023,PAT5628,Oakwood Medical,Orthopedics,Diabetes,East,125,9589.42,3,1
+VIS1629,5/31/2023,PAT5629,Hope General,Pediatrics,Asthma,South,112,7037.06,3,1
+VIS1630,12/9/2024,PAT5630,Sunrise Hospital,Orthopedics,Asthma,South,151,1398.28,5,0
+VIS1631,9/21/2023,PAT5631,St. Mary’s,Oncology,Fracture,South,147,4378.97,4,0
+VIS1632,9/26/2023,PAT5632,Hope General,Oncology,Diabetes,West,7,1848.41,4,0
+VIS1633,8/5/2024,PAT5633,Oakwood Medical,Emergency,Cancer,East,129,3070.34,5,0
+VIS1634,11/23/2023,PAT5634,Sunrise Hospital,Cardiology,Cancer,South,20,2233.13,3,1
+VIS1635,5/9/2023,PAT5635,St. Mary’s,Pediatrics,Cancer,East,71,3673.52,5,1
+VIS1636,8/4/2024,PAT5636,Green Valley Clinic,Cardiology,Asthma,North,94,8686.95,5,0
+VIS1637,11/17/2024,PAT5637,Oakwood Medical,Emergency,Cancer,South,77,3615.58,5,1
+VIS1638,3/19/2025,PAT5638,Sunrise Hospital,Cardiology,Asthma,East,123,6353.95,2,0
+VIS1639,11/10/2024,PAT5639,Green Valley Clinic,Pediatrics,Cancer,West,23,883.21,3,0
+VIS1640,2/25/2024,PAT5640,Green Valley Clinic,Orthopedics,Cancer,East,73,6093.31,4,1
+VIS1641,9/1/2023,PAT5641,Sunrise Hospital,Orthopedics,Cancer,West,110,1756.45,1,0
+VIS1642,1/3/2025,PAT5642,Hope General,Oncology,Fracture,North,58,1752.41,1,0
+VIS1643,11/16/2023,PAT5643,St. Mary’s,Pediatrics,Migraine,North,11,7732.24,5,0
+VIS1644,3/19/2025,PAT5644,St. Mary’s,Orthopedics,Migraine,South,26,6582.84,4,1
+VIS1645,8/7/2024,PAT5645,Hope General,Neurology,Cancer,East,118,6302.16,2,0
+VIS1646,6/30/2024,PAT5646,St. Mary’s,Cardiology,Cancer,East,88,8655.99,4,1
+VIS1647,5/31/2023,PAT5647,Oakwood Medical,Pediatrics,Diabetes,South,156,6016.08,5,1
+VIS1648,6/13/2023,PAT5648,Oakwood Medical,Oncology,Cancer,East,93,4868.35,2,0
+VIS1649,10/21/2023,PAT5649,Sunrise Hospital,Orthopedics,Fracture,West,71,1641.6,1,0
+VIS1650,9/16/2023,PAT5650,Oakwood Medical,Neurology,Fracture,East,125,5397.48,4,1
+VIS1651,6/11/2024,PAT5651,Green Valley Clinic,Cardiology,Asthma,East,157,2389.03,1,1
+VIS1652,9/2/2023,PAT5652,Hope General,Pediatrics,Migraine,West,106,2573.97,4,1
+VIS1653,3/18/2025,PAT5653,Hope General,Orthopedics,Hypertension,West,165,2471.66,5,1
+VIS1654,10/13/2023,PAT5654,Green Valley Clinic,Oncology,Cancer,East,110,1961.21,1,0
+VIS1655,12/4/2024,PAT5655,Hope General,Orthopedics,Hypertension,West,163,4582.4,5,1
+VIS1656,2/24/2025,PAT5656,Hope General,Orthopedics,Hypertension,South,17,9700.19,1,0
+VIS1657,5/31/2023,PAT5657,St. Mary’s,Orthopedics,Fracture,South,117,7298.36,2,0
+VIS1658,6/24/2024,PAT5658,Hope General,Cardiology,Asthma,South,92,4260.41,4,1
+VIS1659,9/8/2024,PAT5659,Sunrise Hospital,Oncology,Hypertension,East,25,8451.11,2,0
+VIS1660,8/5/2024,PAT5660,Green Valley Clinic,Pediatrics,Hypertension,West,51,2002.7,3,1
+VIS1661,3/30/2025,PAT5661,St. Mary’s,Cardiology,Cancer,South,103,7735.13,4,0
+VIS1662,1/18/2024,PAT5662,St. Mary’s,Neurology,Asthma,North,138,6693.48,2,1
+VIS1663,5/20/2023,PAT5663,Sunrise Hospital,Oncology,Fracture,East,45,6328.73,1,0
+VIS1664,4/24/2024,PAT5664,Green Valley Clinic,Pediatrics,Cancer,East,55,3668.22,1,0
+VIS1665,5/16/2023,PAT5665,St. Mary’s,Neurology,Cancer,West,88,249.17,3,0
+VIS1666,9/24/2023,PAT5666,Sunrise Hospital,Neurology,Hypertension,North,153,7856.4,4,0
+VIS1667,3/4/2025,PAT5667,Green Valley Clinic,Cardiology,Diabetes,South,132,1004.88,5,1
+VIS1668,4/9/2025,PAT5668,St. Mary’s,Cardiology,Fracture,South,142,7935.52,2,1
+VIS1669,12/20/2023,PAT5669,Hope General,Orthopedics,Migraine,East,117,7358.57,1,1
+VIS1670,1/3/2025,PAT5670,Green Valley Clinic,Oncology,Diabetes,East,15,4904.49,4,1
+VIS1671,5/10/2023,PAT5671,Oakwood Medical,Oncology,Asthma,South,150,1947.6,3,1
+VIS1672,8/16/2024,PAT5672,Sunrise Hospital,Orthopedics,Migraine,South,22,5358.26,4,1
+VIS1673,12/11/2023,PAT5673,Green Valley Clinic,Emergency,Fracture,West,5,7781.59,5,1
+VIS1674,9/8/2024,PAT5674,Hope General,Cardiology,Migraine,East,163,2463.99,1,1
+VIS1675,12/27/2023,PAT5675,Hope General,Emergency,Cancer,West,146,1625.9,3,1
+VIS1676,4/17/2024,PAT5676,Sunrise Hospital,Oncology,Fracture,North,29,5279.69,1,0
+VIS1677,12/10/2023,PAT5677,Hope General,Neurology,Hypertension,South,32,4905.17,1,0
+VIS1678,5/18/2023,PAT5678,Oakwood Medical,Oncology,Asthma,West,139,6277.31,5,1
+VIS1679,1/26/2024,PAT5679,St. Mary’s,Orthopedics,Diabetes,North,8,9309.09,2,1
+VIS1680,12/11/2024,PAT5680,St. Mary’s,Pediatrics,Cancer,North,97,5624.4,4,1
+VIS1681,5/13/2023,PAT5681,St. Mary’s,Emergency,Fracture,North,23,8361.12,1,0
+VIS1682,8/14/2024,PAT5682,Oakwood Medical,Cardiology,Hypertension,South,141,3914.78,2,0
+VIS1683,1/7/2025,PAT5683,Oakwood Medical,Oncology,Diabetes,West,32,7686.21,5,1
+VIS1684,8/15/2023,PAT5684,Sunrise Hospital,Oncology,Cancer,West,31,1751.41,2,1
+VIS1685,9/5/2024,PAT5685,Oakwood Medical,Orthopedics,Cancer,South,141,9984.49,4,1
+VIS1686,10/10/2023,PAT5686,Green Valley Clinic,Emergency,Fracture,East,110,7665.43,4,1
+VIS1687,5/25/2024,PAT5687,Oakwood Medical,Neurology,Migraine,South,101,7680.51,3,1
+VIS1688,7/9/2024,PAT5688,Sunrise Hospital,Pediatrics,Asthma,North,13,9831.27,5,0
+VIS1689,11/7/2024,PAT5689,Oakwood Medical,Neurology,Fracture,North,81,9845.5,2,1
+VIS1690,12/5/2023,PAT5690,St. Mary’s,Oncology,Fracture,South,29,473.59,3,0
+VIS1691,8/10/2024,PAT5691,Hope General,Orthopedics,Fracture,South,64,2636.81,3,0
+VIS1692,8/14/2023,PAT5692,Oakwood Medical,Pediatrics,Migraine,South,24,7263.45,4,0
+VIS1693,7/31/2024,PAT5693,Sunrise Hospital,Oncology,Cancer,North,157,6458.32,1,1
+VIS1694,10/18/2024,PAT5694,St. Mary’s,Cardiology,Fracture,East,116,4223.56,1,0
+VIS1695,8/30/2024,PAT5695,Oakwood Medical,Cardiology,Cancer,West,18,3117.36,1,1
+VIS1696,9/17/2024,PAT5696,Oakwood Medical,Emergency,Diabetes,East,133,7007.91,2,0
+VIS1697,4/16/2024,PAT5697,Sunrise Hospital,Pediatrics,Migraine,North,61,4376.16,4,0
+VIS1698,9/14/2023,PAT5698,Hope General,Orthopedics,Hypertension,West,151,7478.62,5,1
+VIS1699,8/22/2023,PAT5699,Green Valley Clinic,Cardiology,Asthma,West,38,7644.13,4,0
+VIS1700,4/22/2025,PAT5700,Sunrise Hospital,Pediatrics,Cancer,South,148,6198.37,5,0
+VIS1701,7/10/2023,PAT5701,Hope General,Cardiology,Fracture,West,87,6878.91,5,0
+VIS1702,1/24/2025,PAT5702,St. Mary’s,Oncology,Asthma,West,98,3548.25,3,1
+VIS1703,8/27/2024,PAT5703,Oakwood Medical,Oncology,Hypertension,East,48,9877.75,5,1
+VIS1704,4/15/2024,PAT5704,Oakwood Medical,Neurology,Asthma,North,64,2076.88,3,0
+VIS1705,6/9/2024,PAT5705,St. Mary’s,Cardiology,Cancer,North,67,9494.52,2,1
+VIS1706,2/20/2024,PAT5706,St. Mary’s,Orthopedics,Cancer,North,83,4555.61,1,1
+VIS1707,1/13/2024,PAT5707,Hope General,Oncology,Migraine,South,57,5509.6,3,1
+VIS1708,5/18/2023,PAT5708,Oakwood Medical,Oncology,Diabetes,North,101,5871.75,5,0
+VIS1709,10/5/2023,PAT5709,Green Valley Clinic,Neurology,Hypertension,East,56,7912.97,5,1
+VIS1710,11/17/2023,PAT5710,St. Mary’s,Pediatrics,Cancer,North,22,3947.59,3,1
+VIS1711,12/21/2023,PAT5711,St. Mary’s,Cardiology,Fracture,West,64,9799.95,5,0
+VIS1712,6/7/2023,PAT5712,Green Valley Clinic,Pediatrics,Migraine,North,52,2068.86,4,0
+VIS1713,11/17/2023,PAT5713,St. Mary’s,Neurology,Migraine,East,90,4950.34,2,0
+VIS1714,1/25/2025,PAT5714,Green Valley Clinic,Oncology,Fracture,East,165,3093.03,5,1
+VIS1715,8/21/2024,PAT5715,St. Mary’s,Oncology,Fracture,West,12,9446.95,3,0
+VIS1716,2/1/2025,PAT5716,Hope General,Orthopedics,Asthma,South,27,7325.91,5,0
+VIS1717,1/28/2024,PAT5717,Sunrise Hospital,Neurology,Migraine,South,114,9708.32,5,1
+VIS1718,6/25/2024,PAT5718,Sunrise Hospital,Emergency,Diabetes,South,172,1471.91,5,0
+VIS1719,9/22/2024,PAT5719,Hope General,Orthopedics,Cancer,South,115,9957.29,2,0
+VIS1720,5/1/2025,PAT5720,Green Valley Clinic,Cardiology,Migraine,North,52,3244.22,2,0
+VIS1721,6/10/2023,PAT5721,Green Valley Clinic,Pediatrics,Asthma,East,118,7481.54,3,0
+VIS1722,7/10/2024,PAT5722,Hope General,Cardiology,Diabetes,South,11,7648.23,5,1
+VIS1723,10/12/2024,PAT5723,Oakwood Medical,Emergency,Migraine,South,157,2398.61,1,1
+VIS1724,11/22/2024,PAT5724,St. Mary’s,Oncology,Asthma,South,133,8476.77,4,1
+VIS1725,2/3/2024,PAT5725,Hope General,Pediatrics,Asthma,West,40,1721.49,2,0
+VIS1726,9/1/2024,PAT5726,Sunrise Hospital,Cardiology,Fracture,West,61,7449.43,2,0
+VIS1727,9/22/2024,PAT5727,St. Mary’s,Neurology,Asthma,West,88,8681.07,2,1
+VIS1728,2/10/2024,PAT5728,Sunrise Hospital,Cardiology,Migraine,West,85,4002.09,5,0
+VIS1729,6/16/2023,PAT5729,Oakwood Medical,Cardiology,Asthma,West,15,8790.02,2,1
+VIS1730,2/11/2024,PAT5730,St. Mary’s,Emergency,Asthma,North,53,2982.68,4,1
+VIS1731,10/27/2024,PAT5731,Green Valley Clinic,Pediatrics,Diabetes,West,80,6170.03,1,0
+VIS1732,2/9/2025,PAT5732,Sunrise Hospital,Oncology,Asthma,North,133,1220.4,5,0
+VIS1733,12/12/2023,PAT5733,Sunrise Hospital,Pediatrics,Fracture,West,11,1870.9,5,0
+VIS1734,9/21/2024,PAT5734,Sunrise Hospital,Cardiology,Fracture,East,171,9080.91,2,0
+VIS1735,10/12/2024,PAT5735,St. Mary’s,Cardiology,Cancer,West,167,3693.14,5,1
+VIS1736,4/18/2025,PAT5736,Oakwood Medical,Emergency,Diabetes,West,145,3868.01,2,1
+VIS1737,3/18/2024,PAT5737,Oakwood Medical,Oncology,Diabetes,South,42,1870.78,1,1
+VIS1738,4/20/2025,PAT5738,Green Valley Clinic,Orthopedics,Cancer,West,78,6301.88,1,0
+VIS1739,5/29/2024,PAT5739,Hope General,Cardiology,Migraine,East,8,4640.56,4,0
+VIS1740,9/18/2023,PAT5740,Oakwood Medical,Pediatrics,Diabetes,South,155,6628.76,4,1
+VIS1741,9/8/2023,PAT5741,Sunrise Hospital,Cardiology,Migraine,North,67,8833.46,3,0
+VIS1742,2/15/2024,PAT5742,St. Mary’s,Neurology,Diabetes,North,172,3555.3,2,0
+VIS1743,7/26/2024,PAT5743,Oakwood Medical,Emergency,Fracture,East,27,585.41,4,0
+VIS1744,5/22/2024,PAT5744,Hope General,Oncology,Fracture,South,121,7518.41,3,0
+VIS1745,9/12/2024,PAT5745,St. Mary’s,Orthopedics,Fracture,East,102,8220.62,4,0
+VIS1746,8/29/2023,PAT5746,Green Valley Clinic,Pediatrics,Diabetes,North,75,3359.16,4,0
+VIS1747,1/4/2025,PAT5747,Hope General,Emergency,Hypertension,North,151,7324.31,5,0
+VIS1748,3/1/2025,PAT5748,Sunrise Hospital,Oncology,Cancer,East,114,6127.56,3,1
+VIS1749,8/27/2024,PAT5749,Oakwood Medical,Emergency,Migraine,East,38,6181.47,4,1
+VIS1750,2/28/2024,PAT5750,Sunrise Hospital,Neurology,Migraine,South,79,9794.65,1,0
+VIS1751,9/27/2024,PAT5751,St. Mary’s,Pediatrics,Cancer,North,58,8015.69,4,1
+VIS1752,12/29/2023,PAT5752,St. Mary’s,Orthopedics,Fracture,South,7,6442.12,3,1
+VIS1753,8/5/2024,PAT5753,St. Mary’s,Orthopedics,Fracture,East,6,1226.98,3,1
+VIS1754,7/14/2023,PAT5754,Sunrise Hospital,Oncology,Migraine,North,49,2020.75,3,1
+VIS1755,3/16/2025,PAT5755,Sunrise Hospital,Cardiology,Cancer,South,128,1638.32,4,1
+VIS1756,7/15/2024,PAT5756,Sunrise Hospital,Pediatrics,Cancer,North,138,3063.5,3,0
+VIS1757,10/23/2024,PAT5757,Hope General,Emergency,Cancer,East,95,755.51,2,1
+VIS1758,10/12/2023,PAT5758,St. Mary’s,Orthopedics,Asthma,South,151,6096.32,2,0
+VIS1759,12/18/2024,PAT5759,Green Valley Clinic,Oncology,Fracture,North,74,4197.31,4,0
+VIS1760,12/19/2024,PAT5760,Green Valley Clinic,Pediatrics,Fracture,South,139,3092.95,1,1
+VIS1761,4/17/2025,PAT5761,St. Mary’s,Neurology,Hypertension,West,134,346.85,4,0
+VIS1762,2/27/2025,PAT5762,Hope General,Orthopedics,Asthma,East,88,1518.62,1,0
+VIS1763,10/23/2024,PAT5763,Hope General,Oncology,Hypertension,West,104,7165.41,5,0
+VIS1764,10/25/2023,PAT5764,St. Mary’s,Orthopedics,Hypertension,North,90,4722.07,1,0
+VIS1765,3/3/2025,PAT5765,Oakwood Medical,Oncology,Cancer,East,10,5817.84,3,0
+VIS1766,1/13/2025,PAT5766,Green Valley Clinic,Neurology,Diabetes,East,75,5369.53,4,0
+VIS1767,8/31/2024,PAT5767,Green Valley Clinic,Neurology,Diabetes,East,34,251.04,5,0
+VIS1768,4/20/2024,PAT5768,Hope General,Emergency,Fracture,East,74,1501.41,3,0
+VIS1769,7/30/2024,PAT5769,Hope General,Cardiology,Fracture,East,143,4492.11,2,0
+VIS1770,11/11/2023,PAT5770,Sunrise Hospital,Oncology,Hypertension,North,103,632.62,4,1
+VIS1771,11/16/2024,PAT5771,Hope General,Oncology,Migraine,West,162,3620.68,3,0
+VIS1772,8/12/2024,PAT5772,Oakwood Medical,Cardiology,Asthma,South,28,8147.23,4,0
+VIS1773,7/19/2023,PAT5773,Sunrise Hospital,Orthopedics,Cancer,West,125,2393.77,2,0
+VIS1774,3/22/2025,PAT5774,Oakwood Medical,Orthopedics,Fracture,West,51,7026.18,3,1
+VIS1775,1/12/2024,PAT5775,Sunrise Hospital,Pediatrics,Hypertension,North,126,1217.58,4,1
+VIS1776,6/20/2024,PAT5776,Hope General,Orthopedics,Fracture,South,135,1119.03,1,1
+VIS1777,11/29/2023,PAT5777,Oakwood Medical,Oncology,Hypertension,East,141,4663.65,5,1
+VIS1778,3/22/2024,PAT5778,Hope General,Emergency,Diabetes,South,128,3899.78,3,0
+VIS1779,8/14/2023,PAT5779,Oakwood Medical,Pediatrics,Asthma,East,144,6971.92,2,0
+VIS1780,2/9/2025,PAT5780,Oakwood Medical,Pediatrics,Hypertension,West,88,5595.37,4,0
+VIS1781,1/19/2024,PAT5781,Green Valley Clinic,Pediatrics,Hypertension,North,180,8159.26,4,1
+VIS1782,7/24/2023,PAT5782,Sunrise Hospital,Oncology,Cancer,North,28,2254.36,2,0
+VIS1783,7/5/2023,PAT5783,Hope General,Oncology,Diabetes,West,141,2985.88,5,1
+VIS1784,12/22/2024,PAT5784,Hope General,Neurology,Cancer,East,81,5745.74,3,1
+VIS1785,10/8/2023,PAT5785,Green Valley Clinic,Cardiology,Migraine,North,161,9865.57,4,0
+VIS1786,8/4/2023,PAT5786,Green Valley Clinic,Cardiology,Fracture,North,5,7063.21,3,0
+VIS1787,12/26/2024,PAT5787,Green Valley Clinic,Cardiology,Diabetes,West,156,4003.26,3,1
+VIS1788,12/4/2024,PAT5788,Sunrise Hospital,Pediatrics,Asthma,South,174,1816.76,2,0
+VIS1789,5/27/2023,PAT5789,Oakwood Medical,Pediatrics,Fracture,West,44,2955.86,2,0
+VIS1790,8/30/2023,PAT5790,St. Mary’s,Cardiology,Cancer,North,41,7241.26,4,1
+VIS1791,9/6/2024,PAT5791,Hope General,Cardiology,Diabetes,West,121,8946.47,5,1
+VIS1792,1/14/2025,PAT5792,Oakwood Medical,Neurology,Asthma,West,146,8218.71,4,1
+VIS1793,12/6/2024,PAT5793,Hope General,Neurology,Asthma,North,152,5031.75,2,1
+VIS1794,4/18/2025,PAT5794,Sunrise Hospital,Emergency,Migraine,East,13,9784.51,5,1
+VIS1795,1/30/2024,PAT5795,Green Valley Clinic,Cardiology,Migraine,West,25,1506.67,5,1
+VIS1796,8/15/2023,PAT5796,Sunrise Hospital,Emergency,Hypertension,North,67,4777.27,1,1
+VIS1797,10/3/2023,PAT5797,Oakwood Medical,Cardiology,Fracture,North,125,4594.94,4,1
+VIS1798,1/9/2025,PAT5798,Sunrise Hospital,Orthopedics,Fracture,East,47,449.73,5,1
+VIS1799,5/14/2024,PAT5799,Oakwood Medical,Orthopedics,Hypertension,West,153,1773.88,1,1
+VIS1800,8/25/2024,PAT5800,Oakwood Medical,Cardiology,Fracture,West,26,1355.53,1,1
+VIS1801,10/19/2024,PAT5801,Green Valley Clinic,Neurology,Migraine,East,75,8592.8,1,0
+VIS1802,1/28/2025,PAT5802,Oakwood Medical,Neurology,Migraine,South,173,4521.87,2,1
+VIS1803,1/31/2025,PAT5803,Hope General,Pediatrics,Diabetes,North,92,9842.31,2,0
+VIS1804,8/26/2024,PAT5804,Sunrise Hospital,Pediatrics,Asthma,South,174,4457.83,2,0
+VIS1805,6/23/2024,PAT5805,Oakwood Medical,Oncology,Fracture,North,169,2717.52,1,0
+VIS1806,4/18/2025,PAT5806,Hope General,Pediatrics,Asthma,West,82,4815.04,5,0
+VIS1807,11/25/2024,PAT5807,Sunrise Hospital,Oncology,Cancer,West,126,2699.99,5,1
+VIS1808,5/24/2023,PAT5808,St. Mary’s,Orthopedics,Asthma,West,178,3225.32,5,0
+VIS1809,4/13/2024,PAT5809,St. Mary’s,Emergency,Cancer,East,115,6143.81,3,1
+VIS1810,1/2/2025,PAT5810,Green Valley Clinic,Orthopedics,Hypertension,East,172,5883.35,4,0
+VIS1811,2/2/2024,PAT5811,Oakwood Medical,Neurology,Migraine,East,178,6933.76,2,1
+VIS1812,8/25/2023,PAT5812,Oakwood Medical,Cardiology,Cancer,North,22,218.42,1,0
+VIS1813,3/27/2025,PAT5813,Sunrise Hospital,Orthopedics,Diabetes,East,69,2011.49,1,0
+VIS1814,7/2/2023,PAT5814,St. Mary’s,Emergency,Cancer,South,158,6417.02,1,0
+VIS1815,7/7/2024,PAT5815,Oakwood Medical,Neurology,Asthma,South,33,6986.97,3,1
+VIS1816,4/2/2025,PAT5816,Sunrise Hospital,Oncology,Hypertension,West,75,7716.66,3,1
+VIS1817,8/3/2024,PAT5817,Hope General,Cardiology,Fracture,North,102,3947.05,1,1
+VIS1818,2/21/2024,PAT5818,Green Valley Clinic,Neurology,Asthma,North,130,9796.28,2,1
+VIS1819,12/12/2023,PAT5819,Hope General,Oncology,Asthma,North,41,5452.26,4,0
+VIS1820,12/26/2023,PAT5820,Oakwood Medical,Oncology,Hypertension,West,71,1122.54,1,0
+VIS1821,5/27/2023,PAT5821,Oakwood Medical,Oncology,Fracture,West,9,8975.47,2,0
+VIS1822,12/21/2024,PAT5822,St. Mary’s,Oncology,Asthma,East,43,7030.55,4,0
+VIS1823,11/19/2024,PAT5823,Oakwood Medical,Oncology,Asthma,West,116,4098.74,1,0
+VIS1824,10/29/2024,PAT5824,St. Mary’s,Pediatrics,Cancer,West,36,5715.71,3,1
+VIS1825,1/6/2024,PAT5825,Green Valley Clinic,Pediatrics,Hypertension,North,98,5392.8,3,0
+VIS1826,10/14/2023,PAT5826,Sunrise Hospital,Orthopedics,Cancer,South,50,5589.31,4,0
+VIS1827,6/22/2024,PAT5827,Green Valley Clinic,Oncology,Asthma,North,166,6919.54,4,0
+VIS1828,12/30/2024,PAT5828,Sunrise Hospital,Oncology,Diabetes,South,14,2011.62,5,0
+VIS1829,4/22/2025,PAT5829,Sunrise Hospital,Pediatrics,Hypertension,East,132,5386.01,4,0
+VIS1830,7/29/2024,PAT5830,St. Mary’s,Orthopedics,Hypertension,East,15,4114.53,2,1
+VIS1831,1/1/2024,PAT5831,Oakwood Medical,Neurology,Cancer,South,23,465.09,2,1
+VIS1832,3/12/2024,PAT5832,St. Mary’s,Pediatrics,Migraine,North,67,7042.84,2,0
+VIS1833,5/6/2024,PAT5833,Hope General,Oncology,Hypertension,East,29,4616.23,2,0
+VIS1834,7/8/2024,PAT5834,St. Mary’s,Cardiology,Asthma,South,21,8064.09,4,1
+VIS1835,12/16/2024,PAT5835,Sunrise Hospital,Orthopedics,Hypertension,South,87,8380.63,2,0
+VIS1836,3/17/2025,PAT5836,Oakwood Medical,Neurology,Fracture,North,35,2811.54,4,0
+VIS1837,1/2/2025,PAT5837,Green Valley Clinic,Emergency,Diabetes,West,67,9264.19,1,0
+VIS1838,3/20/2024,PAT5838,St. Mary’s,Oncology,Migraine,West,45,254.74,4,0
+VIS1839,12/27/2023,PAT5839,St. Mary’s,Cardiology,Diabetes,North,171,5977.93,3,1
+VIS1840,4/15/2025,PAT5840,Sunrise Hospital,Oncology,Diabetes,South,41,6434.27,5,1
+VIS1841,10/26/2024,PAT5841,Sunrise Hospital,Neurology,Diabetes,North,157,1882,4,0
+VIS1842,2/3/2024,PAT5842,Green Valley Clinic,Orthopedics,Asthma,North,147,2432.83,1,0
+VIS1843,1/14/2025,PAT5843,Oakwood Medical,Orthopedics,Migraine,South,123,7726.28,2,1
+VIS1844,5/14/2024,PAT5844,St. Mary’s,Neurology,Hypertension,South,180,8453.44,4,1
+VIS1845,3/29/2024,PAT5845,Hope General,Neurology,Cancer,North,18,6484.12,3,0
+VIS1846,10/14/2024,PAT5846,Sunrise Hospital,Orthopedics,Fracture,West,16,1133.77,1,0
+VIS1847,2/4/2025,PAT5847,Hope General,Cardiology,Asthma,North,23,8961.28,4,1
+VIS1848,10/24/2023,PAT5848,Sunrise Hospital,Neurology,Cancer,East,63,7811.86,3,0
+VIS1849,6/13/2024,PAT5849,St. Mary’s,Neurology,Cancer,West,56,3817.77,2,0
+VIS1850,8/5/2024,PAT5850,Sunrise Hospital,Emergency,Asthma,North,116,1534.92,5,1
+VIS1851,12/7/2024,PAT5851,Hope General,Pediatrics,Fracture,South,122,7226.23,3,1
+VIS1852,6/17/2023,PAT5852,Hope General,Orthopedics,Diabetes,North,150,690.55,2,0
+VIS1853,8/22/2024,PAT5853,Sunrise Hospital,Pediatrics,Asthma,South,92,2276.55,3,0
+VIS1854,12/17/2024,PAT5854,Oakwood Medical,Neurology,Migraine,South,27,4175.79,5,1
+VIS1855,3/30/2025,PAT5855,Hope General,Emergency,Asthma,West,76,243.59,4,0
+VIS1856,10/24/2024,PAT5856,Hope General,Orthopedics,Asthma,South,156,9467.9,5,0
+VIS1857,10/5/2024,PAT5857,Sunrise Hospital,Cardiology,Hypertension,West,134,432.84,5,1
+VIS1858,7/28/2023,PAT5858,Sunrise Hospital,Oncology,Hypertension,West,131,2481.06,5,0
+VIS1859,12/31/2024,PAT5859,Sunrise Hospital,Neurology,Diabetes,East,80,2466.72,1,0
+VIS1860,5/11/2024,PAT5860,Sunrise Hospital,Oncology,Fracture,South,122,8593.43,5,0
+VIS1861,3/18/2024,PAT5861,Sunrise Hospital,Pediatrics,Diabetes,West,52,7919.6,3,1
+VIS1862,3/18/2024,PAT5862,St. Mary’s,Oncology,Hypertension,West,90,5356.11,3,1
+VIS1863,3/1/2024,PAT5863,Green Valley Clinic,Oncology,Migraine,South,180,901.49,3,0
+VIS1864,1/1/2024,PAT5864,Oakwood Medical,Oncology,Fracture,North,33,3891.25,4,0
+VIS1865,10/23/2023,PAT5865,Green Valley Clinic,Orthopedics,Diabetes,North,148,7122.44,2,0
+VIS1866,11/9/2023,PAT5866,Green Valley Clinic,Neurology,Migraine,North,171,4837.09,5,0
+VIS1867,10/9/2024,PAT5867,Hope General,Orthopedics,Fracture,East,133,6834.24,3,0
+VIS1868,11/5/2024,PAT5868,St. Mary’s,Orthopedics,Fracture,West,129,5064.36,1,1
+VIS1869,1/6/2025,PAT5869,Oakwood Medical,Oncology,Migraine,East,120,6247.42,1,0
+VIS1870,9/22/2023,PAT5870,Sunrise Hospital,Cardiology,Hypertension,West,50,2954.89,1,0
+VIS1871,3/2/2024,PAT5871,Hope General,Orthopedics,Hypertension,South,132,1589.93,2,0
+VIS1872,12/15/2024,PAT5872,Green Valley Clinic,Pediatrics,Cancer,South,126,3532.33,4,0
+VIS1873,6/13/2024,PAT5873,Green Valley Clinic,Neurology,Hypertension,North,64,8365.98,5,1
+VIS1874,3/1/2025,PAT5874,Sunrise Hospital,Emergency,Fracture,East,129,5974.24,5,1
+VIS1875,3/16/2025,PAT5875,Sunrise Hospital,Orthopedics,Migraine,South,83,1800.2,3,0
+VIS1876,11/12/2024,PAT5876,Sunrise Hospital,Orthopedics,Fracture,North,42,3595.9,4,0
+VIS1877,9/9/2023,PAT5877,Oakwood Medical,Neurology,Cancer,East,51,9734.74,2,0
+VIS1878,3/17/2025,PAT5878,Hope General,Cardiology,Hypertension,East,152,1352.09,3,1
+VIS1879,4/10/2025,PAT5879,Hope General,Neurology,Migraine,North,175,3237.74,3,0
+VIS1880,4/5/2025,PAT5880,Green Valley Clinic,Pediatrics,Migraine,South,141,3085.44,1,1
+VIS1881,10/25/2024,PAT5881,Sunrise Hospital,Neurology,Asthma,East,44,142.51,5,1
+VIS1882,8/13/2024,PAT5882,Green Valley Clinic,Pediatrics,Fracture,South,149,7312.58,4,1
+VIS1883,6/19/2024,PAT5883,St. Mary’s,Oncology,Asthma,North,40,6812.28,1,1
+VIS1884,1/31/2024,PAT5884,St. Mary’s,Pediatrics,Migraine,South,119,3638.2,3,0
+VIS1885,1/21/2025,PAT5885,Oakwood Medical,Oncology,Diabetes,South,76,2037.59,1,1
+VIS1886,7/19/2023,PAT5886,St. Mary’s,Emergency,Asthma,South,130,3245.8,5,0
+VIS1887,5/26/2024,PAT5887,Green Valley Clinic,Pediatrics,Diabetes,West,99,3922.51,1,1
+VIS1888,6/9/2024,PAT5888,Green Valley Clinic,Orthopedics,Fracture,West,148,967.23,4,1
+VIS1889,12/31/2024,PAT5889,Sunrise Hospital,Orthopedics,Diabetes,West,111,1481.72,5,0
+VIS1890,8/5/2023,PAT5890,Hope General,Neurology,Fracture,West,139,9867.72,1,1
+VIS1891,4/12/2024,PAT5891,St. Mary’s,Cardiology,Asthma,East,111,1831.44,4,0
+VIS1892,6/23/2023,PAT5892,Hope General,Neurology,Asthma,East,146,4956.8,3,1
+VIS1893,11/11/2024,PAT5893,Sunrise Hospital,Emergency,Cancer,West,62,365.72,1,0
+VIS1894,4/24/2024,PAT5894,Green Valley Clinic,Orthopedics,Cancer,West,36,6572.75,3,1
+VIS1895,9/5/2023,PAT5895,Hope General,Pediatrics,Cancer,South,12,1281.61,3,1
+VIS1896,1/18/2025,PAT5896,St. Mary’s,Emergency,Cancer,East,153,4856.81,4,1
+VIS1897,10/15/2023,PAT5897,Sunrise Hospital,Oncology,Hypertension,East,136,7356.28,1,1
+VIS1898,1/18/2024,PAT5898,Hope General,Emergency,Hypertension,South,86,4664.34,2,1
+VIS1899,2/29/2024,PAT5899,Hope General,Cardiology,Fracture,East,112,6398.85,3,0
+VIS1900,3/24/2025,PAT5900,Green Valley Clinic,Orthopedics,Migraine,North,136,2018.77,2,0
+VIS1901,5/25/2024,PAT5901,Oakwood Medical,Neurology,Migraine,East,85,8285.54,3,1
+VIS1902,6/26/2023,PAT5902,Green Valley Clinic,Cardiology,Migraine,East,41,227.69,5,1
+VIS1903,12/19/2024,PAT5903,Green Valley Clinic,Pediatrics,Asthma,East,46,1113.94,2,0
+VIS1904,3/8/2024,PAT5904,Hope General,Emergency,Migraine,North,111,4658.86,1,0
+VIS1905,7/16/2023,PAT5905,Hope General,Cardiology,Asthma,East,84,6941.4,2,1
+VIS1906,6/25/2023,PAT5906,Oakwood Medical,Emergency,Fracture,South,82,384.72,1,0
+VIS1907,10/5/2023,PAT5907,Hope General,Oncology,Diabetes,South,83,1340.91,2,0
+VIS1908,10/11/2024,PAT5908,Sunrise Hospital,Oncology,Hypertension,North,9,7769.45,4,0
+VIS1909,10/14/2023,PAT5909,Hope General,Cardiology,Hypertension,North,125,1277.33,3,0
+VIS1910,10/4/2024,PAT5910,St. Mary’s,Orthopedics,Cancer,North,29,7845.47,5,0
+VIS1911,11/17/2023,PAT5911,Oakwood Medical,Neurology,Diabetes,East,12,998.72,3,1
+VIS1912,1/10/2025,PAT5912,Green Valley Clinic,Neurology,Migraine,South,134,5745.33,1,0
+VIS1913,6/24/2024,PAT5913,Oakwood Medical,Neurology,Cancer,South,77,1800.56,5,0
+VIS1914,8/9/2024,PAT5914,St. Mary’s,Neurology,Migraine,West,98,7011.52,2,1
+VIS1915,6/17/2023,PAT5915,St. Mary’s,Neurology,Fracture,West,113,2221.31,2,1
+VIS1916,11/20/2024,PAT5916,St. Mary’s,Orthopedics,Hypertension,West,33,5245.3,4,1
+VIS1917,11/1/2023,PAT5917,Green Valley Clinic,Emergency,Cancer,North,26,3348.34,1,1
+VIS1918,10/4/2023,PAT5918,Green Valley Clinic,Pediatrics,Migraine,East,180,9764.17,4,0
+VIS1919,4/30/2025,PAT5919,Oakwood Medical,Pediatrics,Fracture,West,53,8582.06,4,1
+VIS1920,5/5/2024,PAT5920,Hope General,Cardiology,Cancer,West,177,1141.2,4,0
+VIS1921,12/26/2024,PAT5921,St. Mary’s,Neurology,Asthma,West,156,9777.95,2,0
+VIS1922,2/24/2025,PAT5922,Green Valley Clinic,Neurology,Fracture,South,157,8455.89,4,0
+VIS1923,12/12/2023,PAT5923,Hope General,Pediatrics,Cancer,West,76,7671.69,5,1
+VIS1924,4/27/2024,PAT5924,Sunrise Hospital,Orthopedics,Asthma,West,129,5163,2,1
+VIS1925,6/29/2024,PAT5925,St. Mary’s,Cardiology,Fracture,West,132,2385.14,2,0
+VIS1926,4/24/2024,PAT5926,St. Mary’s,Oncology,Hypertension,North,132,6813.26,2,1
+VIS1927,7/20/2023,PAT5927,Oakwood Medical,Oncology,Fracture,South,82,6257.47,1,0
+VIS1928,9/16/2023,PAT5928,Oakwood Medical,Pediatrics,Asthma,South,80,6654.72,4,1
+VIS1929,9/26/2023,PAT5929,Oakwood Medical,Orthopedics,Migraine,North,13,9908.04,1,1
+VIS1930,9/24/2024,PAT5930,Sunrise Hospital,Orthopedics,Asthma,West,122,456.21,2,1
+VIS1931,8/26/2023,PAT5931,Hope General,Pediatrics,Asthma,South,84,7185.66,4,0
+VIS1932,10/11/2023,PAT5932,Oakwood Medical,Oncology,Asthma,West,126,5666.33,2,0
+VIS1933,6/2/2024,PAT5933,Sunrise Hospital,Orthopedics,Asthma,West,162,6797.23,3,1
+VIS1934,1/26/2025,PAT5934,St. Mary’s,Cardiology,Migraine,North,37,8385.65,3,0
+VIS1935,1/12/2024,PAT5935,Green Valley Clinic,Pediatrics,Hypertension,West,93,9920.26,4,1
+VIS1936,7/9/2023,PAT5936,St. Mary’s,Oncology,Diabetes,South,65,6516.02,5,0
+VIS1937,2/14/2024,PAT5937,St. Mary’s,Orthopedics,Hypertension,East,48,295.15,3,0
+VIS1938,5/16/2024,PAT5938,Sunrise Hospital,Oncology,Asthma,West,73,301.98,4,0
+VIS1939,10/15/2024,PAT5939,Green Valley Clinic,Pediatrics,Migraine,West,87,5768.13,4,0
+VIS1940,3/10/2025,PAT5940,Hope General,Orthopedics,Asthma,East,47,6186.8,3,1
+VIS1941,8/10/2023,PAT5941,Hope General,Pediatrics,Cancer,North,142,2219.39,3,0
+VIS1942,11/17/2023,PAT5942,Green Valley Clinic,Emergency,Asthma,South,164,7454.59,1,0
+VIS1943,4/10/2025,PAT5943,Oakwood Medical,Orthopedics,Fracture,North,150,8031.74,4,1
+VIS1944,12/3/2023,PAT5944,Hope General,Orthopedics,Hypertension,East,134,8060.85,4,1
+VIS1945,8/16/2023,PAT5945,Hope General,Pediatrics,Asthma,East,164,5202.16,5,0
+VIS1946,9/8/2023,PAT5946,St. Mary’s,Oncology,Cancer,South,152,5042.12,4,1
+VIS1947,6/7/2023,PAT5947,Oakwood Medical,Emergency,Asthma,North,138,2086.42,4,0
+VIS1948,5/13/2024,PAT5948,Hope General,Neurology,Cancer,East,116,4161.58,1,0
+VIS1949,5/27/2023,PAT5949,Sunrise Hospital,Orthopedics,Fracture,South,70,6899.86,2,1
+VIS1950,11/26/2023,PAT5950,Hope General,Cardiology,Diabetes,South,12,2531.31,3,1
+VIS1951,9/7/2024,PAT5951,Sunrise Hospital,Emergency,Asthma,West,170,9065.99,2,0
+VIS1952,2/18/2025,PAT5952,Green Valley Clinic,Neurology,Hypertension,East,76,6620.84,2,0
+VIS1953,4/22/2024,PAT5953,Sunrise Hospital,Cardiology,Hypertension,North,85,6055.84,1,1
+VIS1954,3/19/2024,PAT5954,Green Valley Clinic,Oncology,Cancer,North,106,9437.31,2,0
+VIS1955,12/5/2023,PAT5955,St. Mary’s,Emergency,Cancer,North,138,6675.75,5,1
+VIS1956,8/15/2023,PAT5956,Sunrise Hospital,Cardiology,Diabetes,North,85,3359.93,5,1
+VIS1957,1/10/2024,PAT5957,Hope General,Pediatrics,Diabetes,South,32,1834.03,3,1
+VIS1958,12/25/2024,PAT5958,Sunrise Hospital,Orthopedics,Migraine,North,130,5381.35,1,1
+VIS1959,12/7/2024,PAT5959,Oakwood Medical,Pediatrics,Asthma,South,76,8806.39,2,1
+VIS1960,11/26/2023,PAT5960,Sunrise Hospital,Oncology,Fracture,East,10,6489.44,5,0
+VIS1961,12/27/2024,PAT5961,St. Mary’s,Oncology,Cancer,South,69,5572.01,3,1
+VIS1962,12/13/2024,PAT5962,St. Mary’s,Emergency,Diabetes,West,104,177.87,4,1
+VIS1963,1/9/2024,PAT5963,Green Valley Clinic,Cardiology,Diabetes,East,58,8608.23,2,1
+VIS1964,4/19/2025,PAT5964,Green Valley Clinic,Oncology,Asthma,North,75,8677.8,4,1
+VIS1965,11/5/2024,PAT5965,Sunrise Hospital,Orthopedics,Cancer,West,30,8261.57,3,0
+VIS1966,5/21/2023,PAT5966,Green Valley Clinic,Pediatrics,Migraine,East,121,6982.58,1,0
+VIS1967,4/27/2024,PAT5967,Sunrise Hospital,Oncology,Diabetes,North,107,2080.75,3,1
+VIS1968,6/29/2023,PAT5968,Oakwood Medical,Cardiology,Hypertension,South,68,5212.02,2,1
+VIS1969,7/7/2024,PAT5969,Green Valley Clinic,Pediatrics,Asthma,South,71,1817.44,5,1
+VIS1970,3/25/2024,PAT5970,Green Valley Clinic,Neurology,Hypertension,West,99,1900.7,4,0
+VIS1971,6/2/2023,PAT5971,St. Mary’s,Cardiology,Migraine,South,27,9743.86,2,1
+VIS1972,9/27/2024,PAT5972,Hope General,Cardiology,Asthma,West,158,2675.56,1,1
+VIS1973,1/9/2025,PAT5973,Hope General,Emergency,Hypertension,North,139,4408.07,4,1
+VIS1974,4/21/2025,PAT5974,St. Mary’s,Neurology,Cancer,South,53,9465.92,3,1
+VIS1975,9/30/2024,PAT5975,Sunrise Hospital,Pediatrics,Diabetes,West,57,6040.82,3,0
+VIS1976,12/25/2023,PAT5976,Sunrise Hospital,Neurology,Asthma,South,12,2972.91,3,0
+VIS1977,5/30/2023,PAT5977,Oakwood Medical,Pediatrics,Diabetes,East,154,6874.24,4,0
+VIS1978,9/3/2023,PAT5978,St. Mary’s,Pediatrics,Diabetes,East,106,6899.84,4,1
+VIS1979,1/20/2024,PAT5979,Oakwood Medical,Orthopedics,Hypertension,North,147,681.65,3,0
+VIS1980,8/2/2023,PAT5980,Sunrise Hospital,Orthopedics,Migraine,North,6,2611.2,5,1
+VIS1981,2/12/2024,PAT5981,Green Valley Clinic,Pediatrics,Cancer,East,38,9683.77,5,0
+VIS1982,4/21/2024,PAT5982,Oakwood Medical,Neurology,Fracture,South,133,4979.11,3,1
+VIS1983,3/28/2025,PAT5983,Hope General,Cardiology,Fracture,West,41,2678.02,3,0
+VIS1984,2/18/2025,PAT5984,Hope General,Pediatrics,Fracture,East,115,2900.96,3,1
+VIS1985,10/23/2024,PAT5985,Oakwood Medical,Orthopedics,Asthma,South,85,7395.01,4,0
+VIS1986,11/19/2023,PAT5986,Oakwood Medical,Oncology,Cancer,West,18,1970.31,1,0
+VIS1987,8/10/2023,PAT5987,Hope General,Cardiology,Asthma,East,46,7089.03,4,0
+VIS1988,4/1/2025,PAT5988,Sunrise Hospital,Cardiology,Asthma,East,148,4903.48,4,0
+VIS1989,5/7/2023,PAT5989,Hope General,Cardiology,Fracture,North,57,8694.91,2,0
+VIS1990,3/30/2025,PAT5990,Oakwood Medical,Orthopedics,Migraine,South,154,9980.25,1,0
+VIS1991,6/7/2024,PAT5991,Sunrise Hospital,Cardiology,Diabetes,West,178,1033.62,3,0
+VIS1992,6/10/2023,PAT5992,Green Valley Clinic,Oncology,Cancer,North,105,3798.23,1,1
+VIS1993,1/22/2025,PAT5993,Hope General,Cardiology,Hypertension,West,173,4850.57,3,0
+VIS1994,2/24/2025,PAT5994,Green Valley Clinic,Cardiology,Cancer,West,88,9479.44,5,0
+VIS1995,4/2/2025,PAT5995,Hope General,Cardiology,Cancer,East,87,8001.66,1,1
+VIS1996,12/2/2024,PAT5996,St. Mary’s,Pediatrics,Fracture,South,66,9653.99,4,0
+VIS1997,6/12/2023,PAT5997,St. Mary’s,Neurology,Diabetes,West,108,2920.87,2,0
+VIS1998,9/8/2024,PAT5998,Green Valley Clinic,Pediatrics,Asthma,East,180,6074.78,3,0
+VIS1999,4/30/2025,PAT5999,Green Valley Clinic,Emergency,Diabetes,West,119,8865.59,4,1
