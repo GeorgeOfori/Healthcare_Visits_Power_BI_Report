@@ -96,5 +96,5 @@ Facilities with low scores should explore root causes via surveys or interviews 
 - Power BI
 - DAX for custom KPIs
 - Power Query for transformation
--Python(pandas) for data manipulation
+- Python(pandas) for data manipulation
 
