@@ -26,10 +26,9 @@ Identify which diagnoses and hospitals are driving costs and satisfaction scores
   10.SatisfactionScore – Patient satisfaction (1-5)
   11.Readmitted – Whether patient was readmitted (1=yes, 0=no)    
 
- ## Exploratory Data Analysis(EDA)    
+ ## Exploratory Data Analysis(EDA) and Data Cleaning 
+For full data exploration and cleaning steps, see the [Data Exploration & Cleaning Notebook](notebooks/data_exploration_cleaning.ipynb).
 
-
- ## Data Cleaning
 
  ## Data Transformation(ETL)
   Data extracted, transformed and loaded into Power BI for modeling and visualiaztion.
